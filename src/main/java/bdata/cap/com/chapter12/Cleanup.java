@@ -5,7 +5,7 @@ package bdata.cap.com.chapter12;
 public class Cleanup {
   public static void main(String[] args) {
     try {
-      exceptions.InputFile in = new exceptions.InputFile("Cleanup.java");
+      InputFile in = new InputFile("Cleanup.java");
       try {
         String s;
         int i = 1;

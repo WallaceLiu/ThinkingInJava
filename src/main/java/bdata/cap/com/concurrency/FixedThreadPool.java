@@ -9,7 +9,7 @@ public class FixedThreadPool {
     // Constructor argument is number of threads:
     ExecutorService exec = Executors.newFixedThreadPool(5);
     for(int i = 0; i < 5; i++)
-      exec.execute(new concurrency.LiftOff());
+      exec.execute(new LiftOff());
     exec.shutdown();
   }
 } /* Output: (Sample)

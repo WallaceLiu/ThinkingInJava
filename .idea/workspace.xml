@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e04db018-2ba6-4b26-8a54-4725ad11da1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ChocolateChip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ChocolateChip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ChocolateChip2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ChocolateChip2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/Dinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/Dinner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ImportedMyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/ImportedMyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/LibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/LibTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/PrintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/PrintTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/QualifiedMyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/access/QualifiedMyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/arrays/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/arrays/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/AnonymousConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/AnonymousConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Callbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Callbacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Factories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Games.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/LocalInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/LocalInnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/DynamicFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/DynamicFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter7/FinalArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter7/FinalArguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/BasicThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/BasicThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/CachedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/CachedThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/CheckedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/CheckedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/AdaptedRandomDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/AdaptedRandomDoubles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Adventure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Factories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Games.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/HorrorShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/HorrorShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/InterfaceCollision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/InterfaceCollision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/Months.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandVals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandVals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandomDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandomDoubles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandomWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/RandomWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/TestRandVals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/TestRandVals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/classprocessor/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/classprocessor/Apply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/BandPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/BandPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/HighPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/HighPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/LowPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/LowPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/Waveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/filters/Waveform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/Apply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/FilterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/FilterProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/StringProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/music4/Music4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/music4/Music4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/music5/Music5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/music5/Music5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/nesting/NestingInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/nesting/NestingInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/Cleanup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/Cleanup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/FixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/FixedThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,33 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BigEgg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BigEgg2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/BigEgg2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassInInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/ClassInInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Callbacks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter10/Callbacks.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,13 +82,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CachedThreadPool.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CachedThreadPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/CachedThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cleanup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/Cleanup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixedThreadPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/FixedThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstantiateGenericType.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="e#472#482#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,9 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/SuperTypeWildcards.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/MultipleInterfaceVariants.java" />
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/HijackedInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/Manipulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/NonCovariantGenerics.java" />
@@ -247,6 +205,9 @@
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/DynamicFields.java" />
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/BasicThreads.java" />
         <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/CachedThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/Cleanup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/FixedThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java" />
       </list>
     </option>
   </component>
@@ -352,6 +313,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -476,12 +446,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573353733838</updated>
-      <workItem from="1573353735223" duration="16994000" />
+      <workItem from="1573353735223" duration="17090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16994000" />
+    <option name="totallyTimeSpent" value="17090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -536,31 +506,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ThinkingInJava.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/classprocessor/Apply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/interfaces/interfaceprocessor/Apply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -950,9 +895,33 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/CachedThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/chapter12/Cleanup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/concurrency/FixedThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bdata/cap/com/generics/InstantiateGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
           </folding>
         </state>
       </provider>
