@@ -1,5 +1,5 @@
 //: interfaces/filters/Filter.java
-package interfaces.filters;
+package bdata.cap.com.interfaces.filters;
 
 public class Filter {
   public String name() {

@@ -1,5 +1,6 @@
 //: interfaces/InterfaceCollision.java
-package interfaces;
+package bdata.cap.com.interfaces;
+
 
 interface I1 { void f(); }
 interface I2 { int f(int i); }

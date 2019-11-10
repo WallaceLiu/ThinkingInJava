@@ -1,6 +1,7 @@
 //: interfaces/RandVals.java
 // Initializing interface fields with
 // non-constant initializers.
+package bdata.cap.com.interfaces;
 import java.util.*;
 
 public interface RandVals {

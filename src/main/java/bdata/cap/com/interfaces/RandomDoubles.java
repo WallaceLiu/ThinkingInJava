@@ -1,4 +1,6 @@
 //: interfaces/RandomDoubles.java
+package bdata.cap.com.interfaces;
+
 import java.util.*;
 
 public class RandomDoubles {

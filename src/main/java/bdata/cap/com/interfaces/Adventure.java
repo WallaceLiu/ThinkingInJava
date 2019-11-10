@@ -1,6 +1,6 @@
 //: interfaces/Adventure.java
 // Multiple interfaces.
-
+package bdata.cap.com.interfaces;
 interface CanFight {
   void fight();
 }

@@ -1,5 +1,5 @@
 //: interfaces/filters/HighPass.java
-package interfaces.filters;
+package bdata.cap.com.interfaces.filters;
 
 public class HighPass extends Filter {
   double cutoff;

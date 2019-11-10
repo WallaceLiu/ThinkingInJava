@@ -1,5 +1,5 @@
 //: interfaces/filters/Waveform.java
-package interfaces.filters;
+package bdata.cap.com.interfaces.filters;
 
 public class Waveform {
   private static long counter;

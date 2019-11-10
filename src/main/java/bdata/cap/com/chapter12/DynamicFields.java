@@ -1,7 +1,9 @@
 //: chapter12/DynamicFields.java
 // A Class that dynamically adds fields to itself.
 // Demonstrates exception chaining.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.chapter12;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class DynamicFieldsException extends Exception {}
 

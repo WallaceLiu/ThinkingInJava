@@ -1,6 +1,8 @@
 //: innerclasses/Games.java
 // Using anonymous inner classes with the Game framework.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.chapter10;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 interface Game { boolean move(); }
 interface GameFactory { Game getGame(); }

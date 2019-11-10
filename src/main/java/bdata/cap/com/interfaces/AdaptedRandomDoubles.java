@@ -1,5 +1,6 @@
 //: interfaces/AdaptedRandomDoubles.java
 // Creating an adapter with inheritance.
+package bdata.cap.com.interfaces;
 import java.nio.*;
 import java.util.*;
 

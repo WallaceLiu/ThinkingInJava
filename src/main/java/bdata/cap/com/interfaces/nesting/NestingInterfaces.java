@@ -1,5 +1,5 @@
 //: interfaces/nesting/NestingInterfaces.java
-package interfaces.nesting;
+package bdata.cap.com.interfaces.nesting;
 
 class A {
   interface B {

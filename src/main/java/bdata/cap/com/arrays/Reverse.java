@@ -1,8 +1,13 @@
 //: arrays/Reverse.java
 // The Collections.reverseOrder() Comparator
-import java.util.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.arrays;
+
+import bdata.cap.com.net.mindview.util.Generated;
+
+import java.util.Arrays;
+import java.util.Collections;
+
+import static bdata.cap.com.net.mindview.util.Print.print;
 
 public class Reverse {
   public static void main(String[] args) {

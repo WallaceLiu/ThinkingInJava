@@ -1,8 +1,8 @@
 //: interfaces/music4/Music4.java
 // Abstract classes and methods.
-package interfaces.music4;
-import polymorphism.music.Note;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.interfaces.music4;
+import bdata.cap.com.polymorphism.music.Note;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 abstract class Instrument {
   private int i; // Storage allocated for each

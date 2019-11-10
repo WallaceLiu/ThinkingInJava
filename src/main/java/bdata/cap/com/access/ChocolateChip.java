@@ -1,7 +1,7 @@
 //: access/ChocolateChip.java
 // Can't use package-access member from another package.
 package bdata.cap.com.access;
-import access.dessert.*;
+import bdata.cap.com.access.dessert.*;
 
 public class ChocolateChip extends Cookie {
   public ChocolateChip() {

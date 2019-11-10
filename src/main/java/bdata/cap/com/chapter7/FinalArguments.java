@@ -11,13 +11,13 @@ public class FinalArguments {
      * final参数
      * @param g
      */
-    void with(final chapter7.Gizmo g) {
+    void with(final Gizmo g) {
         //无法在方法中更改final参数引用所指向的对象
         //g = new Gizmo();
     }
 
-    void without(chapter7.Gizmo g) {
-        g = new chapter7.Gizmo();
+    void without(Gizmo g) {
+        g = new Gizmo();
         g.spin();
     }
 

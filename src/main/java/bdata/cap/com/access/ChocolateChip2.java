@@ -1,7 +1,7 @@
 //: access/ChocolateChip2.java
 package bdata.cap.com.access;
 
-import access.cookie2.*;
+import bdata.cap.com.access.cookie2.*;
 
 public class ChocolateChip2 extends Cookie {
   public ChocolateChip2() {

@@ -1,5 +1,5 @@
 //: interfaces/interfaceprocessor/Processor.java
-package interfaces.interfaceprocessor;
+package bdata.cap.com.interfaces.interfaceprocessor;
 
 public interface Processor {
   String name();

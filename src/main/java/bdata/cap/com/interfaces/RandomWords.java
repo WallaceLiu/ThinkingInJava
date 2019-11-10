@@ -1,5 +1,7 @@
 //: interfaces/RandomWords.java
 // Implementing an interface to conform to a method.
+package bdata.cap.com.interfaces;
+
 import java.nio.*;
 import java.util.*;
 

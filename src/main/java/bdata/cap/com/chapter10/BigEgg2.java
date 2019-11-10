@@ -1,6 +1,8 @@
+package bdata.cap.com.chapter10;
+
 //: innerclasses/BigEgg2.java
 // Proper inheritance of an inner class.
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Egg2 {
   protected class Yolk {

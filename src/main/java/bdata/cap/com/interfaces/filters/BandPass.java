@@ -1,5 +1,5 @@
 //: interfaces/filters/BandPass.java
-package interfaces.filters;
+package bdata.cap.com.interfaces.filters;
 
 public class BandPass extends Filter {
   double lowCutoff, highCutoff;

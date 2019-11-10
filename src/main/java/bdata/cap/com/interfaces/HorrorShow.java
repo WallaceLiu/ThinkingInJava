@@ -1,5 +1,6 @@
 //: interfaces/HorrorShow.java
 // Extending an interface with inheritance.
+package bdata.cap.com.interfaces;
 
 interface Monster {
   void menace();

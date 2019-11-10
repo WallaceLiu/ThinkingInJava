@@ -1,8 +1,8 @@
 //: interfaces/music5/Music5.java
 // Interfaces.
-package interfaces.music5;
-import polymorphism.music.Note;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.interfaces.music5;
+import bdata.cap.com.polymorphism.music.Note;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 interface Instrument {
   // Compile-time constant:

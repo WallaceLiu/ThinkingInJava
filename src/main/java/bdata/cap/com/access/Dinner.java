@@ -3,7 +3,7 @@
 
 package bdata.cap.com.access;
 
-import access.dessert.*;
+import bdata.cap.com.access.dessert.*;
 
 public class Dinner {
   public static void main(String[] args) {

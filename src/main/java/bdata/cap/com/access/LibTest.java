@@ -2,7 +2,7 @@
 // Uses the library.
 package bdata.cap.com.access;
 
-import net.mindview.simple.*;
+import bdata.cap.com.net.mindview.simple.*;
 
 public class LibTest {
   public static void main(String[] args) {

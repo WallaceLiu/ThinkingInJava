@@ -2,6 +2,7 @@
 // Using Collection.checkedList().
 package bdata.cap.com.generics;
 
+import bdata.cap.com.typeinfo.pets.Cat;
 import bdata.cap.com.typeinfo.pets.Dog;
 import bdata.cap.com.typeinfo.pets.Pet;
 

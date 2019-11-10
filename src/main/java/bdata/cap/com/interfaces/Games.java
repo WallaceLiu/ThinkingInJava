@@ -1,6 +1,8 @@
 //: interfaces/Games.java
 // A Game framework using Factory Methods.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.interfaces;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 interface Game { boolean move(); }
 interface GameFactory { Game getGame(); }
