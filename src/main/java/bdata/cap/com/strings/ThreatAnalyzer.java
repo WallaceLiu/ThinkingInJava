@@ -1,4 +1,6 @@
 //: strings/ThreatAnalyzer.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
 import java.util.*;
 

@@ -1,11 +1,5 @@
 package bdata.cap.com.chapter5;
-
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
+// Demonstration of a simple constructor.
 public class SimpleConstructor {
     public static void main(String[] args){
         for (int i = 0; i < 10; i++) {

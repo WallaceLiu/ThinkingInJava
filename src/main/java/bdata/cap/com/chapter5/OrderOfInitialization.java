@@ -1,11 +1,8 @@
 package bdata.cap.com.chapter5;
 
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
+// Demonstrates initialization order.
+// When the constructor is called to create a
+// Window object, you'll see a message:
 public class OrderOfInitialization {
     public static void main(String[] args){
         House h = new House();

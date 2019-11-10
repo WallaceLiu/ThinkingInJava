@@ -1,7 +1,9 @@
 //: operators/Bool.java
 // Relational and logical operators.
+package bdata.cap.com.operators;
+
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Bool {
   public static void main(String[] args) {

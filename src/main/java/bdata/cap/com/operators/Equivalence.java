@@ -1,4 +1,5 @@
 //: operators/Equivalence.java
+package bdata.cap.com.operators;
 
 public class Equivalence {
   public static void main(String[] args) {

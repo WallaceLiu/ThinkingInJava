@@ -1,5 +1,7 @@
 //: operators/TernaryIfElse.java
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class TernaryIfElse {
   static int ternary(int i) {

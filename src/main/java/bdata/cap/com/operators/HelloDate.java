@@ -1,6 +1,8 @@
 //: operators/HelloDate.java
+package bdata.cap.com.operators;
+
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class HelloDate {
   public static void main(String[] args) {

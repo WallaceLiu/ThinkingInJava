@@ -1,5 +1,7 @@
 //: operators/Literals.java
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Literals {
   public static void main(String[] args) {

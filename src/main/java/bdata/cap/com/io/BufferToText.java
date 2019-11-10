@@ -1,5 +1,7 @@
 //: io/BufferToText.java
 // Converting text to and from ByteBuffers
+package bdata.cap.com.io;
+
 import java.nio.*;
 import java.nio.channels.*;
 import java.nio.charset.*;

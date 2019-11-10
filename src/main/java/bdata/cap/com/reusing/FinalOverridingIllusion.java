@@ -1,7 +1,9 @@
 //: reusing/FinalOverridingIllusion.java
 // It only looks like you can override
 // a private or private final method.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.reusing;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class WithFinals {
   // Identical to "private" alone:

@@ -1,13 +1,9 @@
 package bdata.cap.com.chapter5;
+// Demonstration of both constructor
+// and ordinary method overloading.
 
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
 public class Overloading {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
             Tree t = new Tree(i);
             t.info();

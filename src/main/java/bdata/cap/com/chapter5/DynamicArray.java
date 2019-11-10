@@ -8,7 +8,7 @@ package bdata.cap.com.chapter5;
  */
 public class DynamicArray {
     public static void main(String[] args){
-        chapter5.Other.main(new String[] { "fiddle", "de", "dum"});
+        Other.main(new String[] { "fiddle", "de", "dum"});
     }
 
     /*output

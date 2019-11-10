@@ -1,5 +1,6 @@
 //: operators/EqualsMethod2.java
 // Default equals() does not compare contents.
+package bdata.cap.com.operators;
 
 class Value {
   int i;

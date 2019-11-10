@@ -1,6 +1,8 @@
 //: io/DirList2.java
 // Uses anonymous inner classes.
 // {Args: "D.*\.java"}
+package bdata.cap.com.io;
+
 import java.util.regex.*;
 import java.io.*;
 import java.util.*;

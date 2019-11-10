@@ -1,6 +1,8 @@
 //: io/DirList3.java
 // Building the anonymous inner class "in-place."
 // {Args: "D.*\.java"}
+package bdata.cap.com.io;
+
 import java.util.regex.*;
 import java.io.*;
 import java.util.*;

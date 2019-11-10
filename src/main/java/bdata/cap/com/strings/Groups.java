@@ -1,6 +1,8 @@
 //: strings/Groups.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Groups {
   static public final String POEM =

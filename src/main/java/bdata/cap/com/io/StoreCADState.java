@@ -1,3 +1,5 @@
+package bdata.cap.com.io;
+
 //: io/StoreCADState.java
 // Saving the state of a pretend CAD system.
 import java.io.*;

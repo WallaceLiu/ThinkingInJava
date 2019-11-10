@@ -1,8 +1,13 @@
 //: io/DirectoryDemo.java
 // Sample use of Directory utilities.
-import java.io.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.io;
+
+import bdata.cap.com.net.mindview.util.Directory;
+import bdata.cap.com.net.mindview.util.PPrint;
+
+import java.io.File;
+
+import static bdata.cap.com.net.mindview.util.Print.print;
 
 public class DirectoryDemo {
   public static void main(String[] args) {

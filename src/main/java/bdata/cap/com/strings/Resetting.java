@@ -1,4 +1,6 @@
 //: strings/Resetting.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
 
 public class Resetting {

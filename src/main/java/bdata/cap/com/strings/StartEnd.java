@@ -1,6 +1,8 @@
 //: strings/StartEnd.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class StartEnd {
   public static String input =

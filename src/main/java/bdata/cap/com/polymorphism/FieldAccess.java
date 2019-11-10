@@ -1,5 +1,6 @@
 //: polymorphism/FieldAccess.java
 // Direct field access is determined at compile time.
+package bdata.cap.com.polymorphism;
 
 class Super {
   public int field = 0;

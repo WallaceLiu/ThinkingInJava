@@ -1,4 +1,5 @@
 //: strings/WhitherStringBuilder.java
+package bdata.cap.com.strings;
 
 public class WhitherStringBuilder {
   public String implicit(String[] fields) {

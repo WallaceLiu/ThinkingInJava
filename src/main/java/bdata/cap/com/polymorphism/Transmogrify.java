@@ -1,7 +1,9 @@
 //: polymorphism/Transmogrify.java
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern).
-import static net.mindview.util.Print.*;
+package bdata.cap.com.polymorphism;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Actor {
   public void act() {}

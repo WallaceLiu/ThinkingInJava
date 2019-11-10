@@ -1,3 +1,5 @@
+package bdata.cap.com.io;
+
 //: io/Redirecting.java
 // Demonstrates standard I/O redirection.
 import java.io.*;

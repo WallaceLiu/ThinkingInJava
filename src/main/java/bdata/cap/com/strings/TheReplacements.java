@@ -1,7 +1,12 @@
 //: strings/TheReplacements.java
-import java.util.regex.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.strings;
+
+import bdata.cap.com.net.mindview.util.TextFile;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import static bdata.cap.com.net.mindview.util.Print.print;
 
 /*! Here's a block of text to use as input to
     the regular expression matcher. Note that we'll

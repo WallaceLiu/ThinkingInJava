@@ -1,8 +1,12 @@
 //: strings/JGrep.java
 // A very simple version of the "grep" program.
 // {Args: JGrep.java "\\b[Ssct]\\w+"}
-import java.util.regex.*;
-import net.mindview.util.*;
+package bdata.cap.com.strings;
+
+import bdata.cap.com.net.mindview.util.TextFile;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class JGrep {
   public static void main(String[] args) throws Exception {

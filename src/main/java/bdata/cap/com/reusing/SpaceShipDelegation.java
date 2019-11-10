@@ -1,4 +1,5 @@
 //: reusing/SpaceShipDelegation.java
+package bdata.cap.com.reusing;
 
 public class SpaceShipDelegation {
   private String name;

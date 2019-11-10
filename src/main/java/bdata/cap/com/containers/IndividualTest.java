@@ -1,9 +1,9 @@
 //: containers/IndividualTest.java
 package bdata.cap.com.containers;
 
+import bdata.cap.com.chapter11.MapOfList;
 import bdata.cap.com.typeinfo.pets.Individual;
 import bdata.cap.com.typeinfo.pets.Pet;
-import holding.MapOfList;
 
 import java.util.List;
 import java.util.Set;

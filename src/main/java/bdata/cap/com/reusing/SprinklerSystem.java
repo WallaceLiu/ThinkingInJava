@@ -1,5 +1,6 @@
 //: reusing/SprinklerSystem.java
 // Composition for code reuse.
+package bdata.cap.com.reusing;
 
 class WaterSource {
   private String s;

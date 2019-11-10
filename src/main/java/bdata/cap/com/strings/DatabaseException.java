@@ -1,4 +1,5 @@
 //: strings/DatabaseException.java
+package bdata.cap.com.strings;
 
 public class DatabaseException extends Exception {
   public DatabaseException(int transactionID, int queryID,

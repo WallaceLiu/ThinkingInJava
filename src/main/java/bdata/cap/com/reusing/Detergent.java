@@ -1,6 +1,8 @@
 //: reusing/Detergent.java
 // Inheritance syntax & properties.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.reusing;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Cleanser {
   private String s = "Cleanser";

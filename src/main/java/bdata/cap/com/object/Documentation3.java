@@ -7,5 +7,7 @@
 * <li> Item three
 * </ol>
 */
+package bdata.cap.com.object;
+
 public class Documentation3 {}
 ///:~

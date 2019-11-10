@@ -1,6 +1,8 @@
 //: operators/AutoInc.java
 // Demonstrates the ++ and -- operators.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class AutoInc {
   public static void main(String[] args) {

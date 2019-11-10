@@ -1,5 +1,7 @@
 //: io/ChangeSystemOut.java
 // Turn System.out into a PrintWriter.
+package bdata.cap.com.io;
+
 import java.io.*;
 
 public class ChangeSystemOut {

@@ -1,5 +1,6 @@
 //: reusing/Jurassic.java
 // Making an entire class final.
+package bdata.cap.com.reusing;
 
 class SmallBrain {}
 

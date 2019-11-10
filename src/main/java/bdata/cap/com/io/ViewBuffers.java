@@ -1,6 +1,8 @@
+package bdata.cap.com.io;
+
 //: io/ViewBuffers.java
 import java.nio.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class ViewBuffers {
   public static void main(String[] args) {

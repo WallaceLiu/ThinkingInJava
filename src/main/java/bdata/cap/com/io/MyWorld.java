@@ -1,7 +1,9 @@
+package bdata.cap.com.io;
+
 //: io/MyWorld.java
 import java.io.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class House implements Serializable {}
 

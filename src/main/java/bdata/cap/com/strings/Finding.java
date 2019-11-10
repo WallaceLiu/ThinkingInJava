@@ -1,6 +1,8 @@
 //: strings/Finding.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Finding {
   public static void main(String[] args) {

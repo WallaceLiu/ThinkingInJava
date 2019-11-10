@@ -1,6 +1,7 @@
 //: polymorphism/RTTI.java
 // Downcasting & Runtime type information (RTTI).
 // {ThrowsException}
+package bdata.cap.com.polymorphism;
 
 class Useful {
   public void f() {}

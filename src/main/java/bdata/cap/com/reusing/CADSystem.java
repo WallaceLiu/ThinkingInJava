@@ -1,7 +1,8 @@
 //: reusing/CADSystem.java
 // Ensuring proper cleanup.
-package reusing;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.reusing;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Shape {
   Shape(int i) { print("Shape constructor"); }

@@ -1,7 +1,9 @@
+package bdata.cap.com.io;
+
 //: io/GetData.java
 // Getting different representations from a ByteBuffer
 import java.nio.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class GetData {
   private static final int BSIZE = 1024;

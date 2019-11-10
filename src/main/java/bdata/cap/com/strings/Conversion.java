@@ -1,4 +1,6 @@
 //: strings/Conversion.java
+package bdata.cap.com.strings;
+
 import java.math.*;
 import java.util.*;
 

@@ -1,6 +1,8 @@
+package bdata.cap.com.io;
+
 //: io/OSExecuteDemo.java
 // Demonstrates standard I/O redirection.
-import net.mindview.util.*;
+import bdata.cap.com.net.mindview.util.*;
 
 public class OSExecuteDemo {
   public static void main(String[] args) {

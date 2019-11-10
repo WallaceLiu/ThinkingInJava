@@ -1,6 +1,8 @@
 //: polymorphism/ReferenceCounting.java
 // Cleaning up shared member objects.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.polymorphism;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Shared {
   private int refcount = 0;

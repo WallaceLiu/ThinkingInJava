@@ -1,3 +1,5 @@
+package bdata.cap.com.io;
+
 //: io/LockingMappedFiles.java
 // Locking portions of a mapped file.
 // {RunByHand}

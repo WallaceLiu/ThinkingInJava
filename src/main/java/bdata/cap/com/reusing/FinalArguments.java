@@ -1,5 +1,6 @@
 //: reusing/FinalArguments.java
 // Using "final" with method arguments.
+package bdata.cap.com.reusing;
 
 class Gizmo {
   public void spin() {}

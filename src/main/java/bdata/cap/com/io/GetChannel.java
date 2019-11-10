@@ -1,4 +1,4 @@
-package io;
+package bdata.cap.com.io;
 
 //: io/GetChannel.java
 // Getting channels from streams

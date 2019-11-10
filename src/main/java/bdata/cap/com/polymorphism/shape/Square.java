@@ -1,6 +1,6 @@
 //: polymorphism/shape/Square.java
-package polymorphism.shape;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.polymorphism.shape;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Square extends Shape {
   public void draw() { print("Square.draw()"); }

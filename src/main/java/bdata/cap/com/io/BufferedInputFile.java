@@ -1,4 +1,6 @@
 //: io/BufferedInputFile.java
+package bdata.cap.com.io;
+
 import java.io.*;
 
 public class BufferedInputFile {

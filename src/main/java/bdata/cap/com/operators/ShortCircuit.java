@@ -1,7 +1,9 @@
 //: operators/ShortCircuit.java
 // Demonstrates short-circuiting behavior
 // with logical operators.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class ShortCircuit {
   static boolean test1(int val) {

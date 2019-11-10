@@ -1,6 +1,8 @@
 //: reusing/Bath.java
 // Constructor initialization with composition.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.reusing;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Soap {
   private String s;

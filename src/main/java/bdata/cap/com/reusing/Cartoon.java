@@ -1,6 +1,8 @@
 //: reusing/Cartoon.java
 // Constructor calls during inheritance.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.reusing;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Art {
   Art() { print("Art constructor"); }

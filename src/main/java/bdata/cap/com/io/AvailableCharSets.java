@@ -1,8 +1,10 @@
 //: io/AvailableCharSets.java
 // Displays Charsets and aliases
+package bdata.cap.com.io;
+
 import java.nio.charset.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class AvailableCharSets {
   public static void main(String[] args) {

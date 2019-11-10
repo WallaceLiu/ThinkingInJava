@@ -1,5 +1,9 @@
+package bdata.cap.com.io;
+
 //: io/MemoryInput.java
-import java.io.*;
+
+import java.io.IOException;
+import java.io.StringReader;
 
 public class MemoryInput {
   public static void main(String[] args)

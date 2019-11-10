@@ -1,4 +1,6 @@
 //: strings/BetterRead.java
+package bdata.cap.com.strings;
+
 import java.util.*;
 
 public class BetterRead {

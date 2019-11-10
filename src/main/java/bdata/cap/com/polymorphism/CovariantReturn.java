@@ -1,4 +1,5 @@
 //: polymorphism/CovariantReturn.java
+package bdata.cap.com.polymorphism;
 
 class Grain {
   public String toString() { return "Grain"; }

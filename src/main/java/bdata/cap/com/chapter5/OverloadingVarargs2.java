@@ -1,11 +1,6 @@
 package bdata.cap.com.chapter5;
 
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/21
- */
+// {CompileTimeError} (Won't compile)
 public class OverloadingVarargs2 {
     static void f(float i, Character... args) {
         System.out.println("first");

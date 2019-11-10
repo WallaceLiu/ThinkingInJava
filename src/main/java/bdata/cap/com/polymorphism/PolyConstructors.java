@@ -1,7 +1,9 @@
 //: polymorphism/PolyConstructors.java
 // Constructors and polymorphism
 // don't produce what you might expect.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.polymorphism;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Glyph {
   void draw() { print("Glyph.draw()"); }

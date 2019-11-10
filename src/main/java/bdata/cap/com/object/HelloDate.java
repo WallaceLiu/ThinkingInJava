@@ -1,4 +1,6 @@
 //: object/HelloDate.java
+package bdata.cap.com.object;
+
 import java.util.*;
 
 /** The first Thinking in Java example program.

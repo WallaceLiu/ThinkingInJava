@@ -1,11 +1,7 @@
 package bdata.cap.com.chapter5;
+//: initialization/OverloadingOrder.java
+// Overloading based on the order of the arguments.
 
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
 public class OverloadingOrder {
     //参数顺序的不同也足以区分两个方法，但不建议这么使用，会使得方法难以维护
     static void f(String s, int i) {

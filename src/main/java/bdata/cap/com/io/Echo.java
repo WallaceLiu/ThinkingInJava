@@ -1,6 +1,8 @@
 //: io/Echo.java
 // How to read from standard input.
 // {RunByHand}
+package bdata.cap.com.io;
+
 import java.io.*;
 
 public class Echo {

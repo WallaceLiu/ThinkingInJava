@@ -1,5 +1,10 @@
 //: io/FileOutputShortcut.java
-import java.io.*;
+package bdata.cap.com.io;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringReader;
 
 public class FileOutputShortcut {
   static String file = "FileOutputShortcut.out";

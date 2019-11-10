@@ -1,4 +1,6 @@
 //: io/FormattedMemoryInput.java
+package bdata.cap.com.io;
+
 import java.io.*;
 
 public class FormattedMemoryInput {

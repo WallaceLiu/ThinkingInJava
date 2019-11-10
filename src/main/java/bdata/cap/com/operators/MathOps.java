@@ -1,7 +1,9 @@
 //: operators/MathOps.java
 // Demonstrates the mathematical operators.
+package bdata.cap.com.operators;
+
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class MathOps {
   public static void main(String[] args) {

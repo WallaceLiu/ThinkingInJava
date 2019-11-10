@@ -1,4 +1,5 @@
 //: strings/SimpleFormat.java
+package bdata.cap.com.strings;
 
 public class SimpleFormat {
   public static void main(String[] args) {

@@ -1,7 +1,9 @@
 //: operators/PassObject.java
 // Passing objects to methods may not be
 // what you're used to.
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Letter {
   char c;

@@ -1,5 +1,6 @@
 //: polymorphism/StaticPolymorphism.java
 // Static methods are not polymorphic.
+package bdata.cap.com.polymorphism;
 
 class StaticSuper {
   public static String staticGet() {

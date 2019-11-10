@@ -1,4 +1,5 @@
 //: object/ShowProperties.java
+package bdata.cap.com.object;
 
 public class ShowProperties {
   public static void main(String[] args) {

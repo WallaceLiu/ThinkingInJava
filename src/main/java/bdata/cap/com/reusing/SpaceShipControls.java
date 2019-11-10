@@ -1,4 +1,5 @@
 //: reusing/SpaceShipControls.java
+package bdata.cap.com.reusing;
 
 public class SpaceShipControls {
   void up(int velocity) {}

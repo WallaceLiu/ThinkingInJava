@@ -1,11 +1,5 @@
 package bdata.cap.com.chapter5;
-
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
+// Using array syntax to create variable argument lists.
 public class VarArgs {
     static void printArray(Object[] args) {
         for (Object obj : args) {

@@ -1,5 +1,6 @@
 //: reusing/Wind.java
 // Inheritance & upcasting.
+package bdata.cap.com.reusing;
 
 class Instrument {
   public void play() {}

@@ -1,7 +1,9 @@
 //: operators/CastingNumbers.java
 // What happens when you cast a float
 // or double to an integral value?
-import static net.mindview.util.Print.*;
+package bdata.cap.com.operators;
+
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class CastingNumbers {
   public static void main(String[] args) {

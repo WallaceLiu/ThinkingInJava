@@ -1,4 +1,6 @@
 //: strings/SimpleRead.java
+package bdata.cap.com.strings;
+
 import java.io.*;
 
 public class SimpleRead {

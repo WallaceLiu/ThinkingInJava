@@ -1,5 +1,6 @@
 //: reusing/Car.java
 // Composition with public objects.
+package bdata.cap.com.reusing;
 
 class Engine {
   public void start() {}

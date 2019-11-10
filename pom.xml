@@ -33,11 +33,17 @@
         </dependency>
         <!--&lt;!&ndash; https://mvnrepository.com/artifact/com.moparisthebest.aptIn16/aptIn16 &ndash;&gt;-->
         <!--<dependency>-->
-            <!--<groupId>com.moparisthebest.aptIn16</groupId>-->
-            <!--<artifactId>aptIn16</artifactId>-->
-            <!--<version>0.2</version>-->
-            <!--<type>pom</type>-->
+        <!--<groupId>com.moparisthebest.aptIn16</groupId>-->
+        <!--<artifactId>aptIn16</artifactId>-->
+        <!--<version>0.2</version>-->
+        <!--<type>pom</type>-->
         <!--</dependency>-->
+        <!-- https://mvnrepository.com/artifact/nu.xom/com.springsource.nu.xom -->
+        <dependency>
+            <groupId>nu.xom</groupId>
+            <artifactId>com.springsource.nu.xom</artifactId>
+            <version>1.2.5</version>
+        </dependency>
 
     </dependencies>
 

@@ -1,11 +1,5 @@
 package bdata.cap.com.chapter5;
-
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
+// Specifying initial values in a class definition.
 public class StaticInitialization {
     public static void main(String[] args){
         System.out.println("Creating new Cupboard() in main");

@@ -1,11 +1,6 @@
 package bdata.cap.com.chapter5;
-
-/**
- * Create by Intellij Idea.
- *
- * @Auhtor George
- * @Create on 2018/2/20
- */
+// Using finalize() to detect an object that
+// hasn't been properly cleaned up.
 public class TerminationCondition {
     public static void main(String[] args){
         Book novel = new Book(true);

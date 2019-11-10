@@ -1,10 +1,10 @@
-package io;
+package bdata.cap.com.io;
 
 //: io/Worm.java
 // Demonstrates object serialization.
 import java.io.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Data implements Serializable {
 	private int n;

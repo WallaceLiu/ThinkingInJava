@@ -1,6 +1,8 @@
 //: polymorphism/Shapes.java
 // Polymorphism in Java.
-import polymorphism.shape.*;
+package bdata.cap.com.polymorphism;
+
+import bdata.cap.com.polymorphism.shape.*;
 
 public class Shapes {
   private static RandomShapeGenerator gen =

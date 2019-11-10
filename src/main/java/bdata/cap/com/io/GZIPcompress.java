@@ -1,3 +1,5 @@
+package bdata.cap.com.io;
+
 //: io/GZIPcompress.java
 // {Args: GZIPcompress.java}
 import java.util.zip.*;

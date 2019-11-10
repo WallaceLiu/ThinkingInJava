@@ -1,8 +1,6 @@
 //: generics/CaptureConversion.java
 package bdata.cap.com.generics;
 
-import javax.xml.ws.Holder;
-
 public class CaptureConversion {
   static <T> void f1(Holder<T> holder) {
     T t = holder.get();

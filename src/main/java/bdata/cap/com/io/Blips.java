@@ -1,9 +1,9 @@
-package io;
+package bdata.cap.com.io;
 
 //: io/Blips.java
 // Simple use of Externalizable & a pitfall.
 import java.io.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 class Blip1 implements Externalizable {
 	public Blip1() {

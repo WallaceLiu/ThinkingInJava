@@ -1,6 +1,6 @@
 //: polymorphism/shape/Triangle.java
-package polymorphism.shape;
-import static net.mindview.util.Print.*;
+package bdata.cap.com.polymorphism.shape;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class Triangle extends Shape {
   public void draw() { print("Triangle.draw()"); }

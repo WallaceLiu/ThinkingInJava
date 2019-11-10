@@ -1,7 +1,9 @@
 //: strings/SplitDemo.java
+package bdata.cap.com.strings;
+
 import java.util.regex.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class SplitDemo {
   public static void main(String[] args) {

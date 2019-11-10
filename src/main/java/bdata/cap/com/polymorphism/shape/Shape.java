@@ -1,5 +1,5 @@
 //: polymorphism/shape/Shape.java
-package polymorphism.shape;
+package bdata.cap.com.polymorphism.shape;
 
 public class Shape {
   public void draw() {}
