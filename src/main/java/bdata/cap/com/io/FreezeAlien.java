@@ -6,6 +6,10 @@ package bdata.cap.com.io;
 import java.io.FileOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
+class Alien implements Serializable {
+}
 
 public class FreezeAlien {
     public static void main(String[] args) throws Exception {

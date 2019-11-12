@@ -35,7 +35,8 @@ public class QueueBehavior {
     test(new LinkedBlockingQueue<String>(), new Gen());
     test(new PriorityBlockingQueue<String>(), new Gen());
   }
-} /* Output:
+}
+/* Output:
 one two three four five six seven eight nine ten
 eight five four nine one seven six ten three two
 one two three four five six seven eight nine ten
