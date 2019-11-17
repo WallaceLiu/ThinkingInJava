@@ -1,3 +1,5 @@
+package javaPuzzlers.part4LoopyPuzzlers.puzzle26;
+
 public class InTheLoop {
     public static final int END = Integer.MAX_VALUE;
     public static final int START = END - 100;

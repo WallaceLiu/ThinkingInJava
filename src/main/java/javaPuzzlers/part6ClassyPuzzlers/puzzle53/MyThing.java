@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle53;
+
 public class MyThing extends Thing {
     private final int arg;
 

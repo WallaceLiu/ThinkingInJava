@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle76;
+
 public class PingPong {
     public static synchronized void main(String[] a) {
         Thread t = new Thread() {

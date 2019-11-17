@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle92;
+
 public class Twisted {
     private final String name;
     Twisted(String name) {

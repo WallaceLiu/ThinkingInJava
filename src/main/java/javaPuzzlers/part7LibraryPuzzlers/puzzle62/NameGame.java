@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle62;
+
 import java.util.*;
 
 public class NameGame {

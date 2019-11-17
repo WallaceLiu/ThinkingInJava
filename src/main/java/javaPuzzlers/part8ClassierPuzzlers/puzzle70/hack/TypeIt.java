@@ -1,5 +1,7 @@
-package hack;
-import click.CodeTalk;
+package javaPuzzlers.part8ClassierPuzzlers.puzzle70.hack;
+
+
+import javaPuzzlers.part8ClassierPuzzlers.puzzle70.click.CodeTalk;
 
 public class TypeIt {
     private static class ClickIt extends CodeTalk {

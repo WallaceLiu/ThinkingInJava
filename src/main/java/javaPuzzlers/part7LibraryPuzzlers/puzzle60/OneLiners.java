@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle60;
+
 import java.util.*;
 
 public class OneLiners {

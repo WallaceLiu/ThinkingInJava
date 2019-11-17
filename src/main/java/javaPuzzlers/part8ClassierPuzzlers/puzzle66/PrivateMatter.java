@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle66;
+
 class Base {
     public String className = "Base";
 }

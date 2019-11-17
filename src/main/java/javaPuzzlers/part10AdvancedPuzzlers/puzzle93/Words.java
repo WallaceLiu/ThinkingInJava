@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle93;
+
 public class Words {
     private Words() { };  // Uninstantiable
 

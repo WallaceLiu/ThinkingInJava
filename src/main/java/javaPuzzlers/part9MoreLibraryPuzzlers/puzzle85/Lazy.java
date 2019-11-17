@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle85;
+
 public class Lazy {
     private static boolean initialized = false;
 

@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle72;
+
 class Jeopardy {
     public static final String PRIZE = "$64,000";
 }

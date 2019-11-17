@@ -1,3 +1,5 @@
+package javaPuzzlers.part4LoopyPuzzlers.puzzle25;
+
 public class Increment {
     public static void main(String[] args) {
         int j = 0;

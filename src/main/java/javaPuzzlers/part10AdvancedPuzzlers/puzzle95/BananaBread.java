@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle95;
+
 import java.util.*;
 public class BananaBread {
     public static void main(String[] args) {

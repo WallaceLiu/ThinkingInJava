@@ -1,4 +1,5 @@
-package click;
+package javaPuzzlers.part8ClassierPuzzlers.puzzle70.click;
+
 public class CodeTalk {
     public void doIt() {
         printMessage();

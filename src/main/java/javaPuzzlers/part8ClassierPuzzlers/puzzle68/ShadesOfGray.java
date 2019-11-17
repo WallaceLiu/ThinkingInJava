@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle68;
+
 public class ShadesOfGray {
     public static void main(String[] args){
         System.out.println(X.Y.Z);

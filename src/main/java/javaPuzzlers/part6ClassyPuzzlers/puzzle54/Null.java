@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle54;
+
 public class Null {
     public static void greet() {
         System.out.println("Hello world!");

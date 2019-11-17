@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle91;
+
 import java.util.*;
 import java.io.*;
 

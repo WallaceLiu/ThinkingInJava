@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle64;
+
 public class Mod {
     public static void main(String[] args) {
         final int MODULUS = 3;

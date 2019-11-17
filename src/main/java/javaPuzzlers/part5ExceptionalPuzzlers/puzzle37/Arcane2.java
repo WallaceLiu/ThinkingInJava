@@ -1,3 +1,5 @@
+package javaPuzzlers.part5ExceptionalPuzzlers.puzzle37;
+
 public class Arcane2 {
     public static void main(String[] args) {
         try {

@@ -1,4 +1,6 @@
-import java.util.Random; 
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle94;
+
+import java.util.Random;
 
 public class Shuffle {
     private static Random rnd = new Random();

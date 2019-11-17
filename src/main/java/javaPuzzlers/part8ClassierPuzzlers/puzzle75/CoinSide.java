@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle75;
+
 import java.util.Random;
 
 public class CoinSide {

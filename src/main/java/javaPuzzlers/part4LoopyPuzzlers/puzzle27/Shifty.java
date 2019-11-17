@@ -1,3 +1,5 @@
+package javaPuzzlers.part4LoopyPuzzlers.puzzle27;
+
 public class Shifty {
     public static void main(String[] args) {
         int i = 0;

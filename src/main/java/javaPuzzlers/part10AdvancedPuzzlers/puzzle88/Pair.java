@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle88;
+
 import java.util.*;
 
 public class Pair<T> {

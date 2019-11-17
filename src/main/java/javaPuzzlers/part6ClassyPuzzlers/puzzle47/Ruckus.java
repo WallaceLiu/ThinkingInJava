@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle47;
+
 class Counter {
     private static int count = 0;
     public static final synchronized void increment() {

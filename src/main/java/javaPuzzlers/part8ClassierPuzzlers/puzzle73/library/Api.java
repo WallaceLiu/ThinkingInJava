@@ -1,4 +1,4 @@
-package library;
+package javaPuzzlers.part8ClassierPuzzlers.puzzle73.library;
 
 /**
  * This class may contain any desired code.  It must contain a commented-out

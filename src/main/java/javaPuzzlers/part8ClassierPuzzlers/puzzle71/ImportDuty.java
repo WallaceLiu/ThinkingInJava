@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle71;
+
 import static java.util.Arrays.toString;
 
 class ImportDuty {

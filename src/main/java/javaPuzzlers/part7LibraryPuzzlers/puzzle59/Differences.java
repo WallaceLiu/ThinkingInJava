@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle59;
+
 import java.util.*;
 
 public class Differences {

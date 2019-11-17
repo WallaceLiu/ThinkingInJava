@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle49;
+
 import java.util.Calendar;
 
 public class Elvis {

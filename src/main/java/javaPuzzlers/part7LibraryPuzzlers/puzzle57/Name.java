@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle57;
+
 import java.util.*;
 
 public class Name {

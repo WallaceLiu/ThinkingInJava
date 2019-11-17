@@ -1,3 +1,5 @@
+package javaPuzzlers.part3PuzzlersWithCharacter.puzzle23;
+
 import java.util.*;
 
 public class Rhymes {
@@ -5,10 +7,13 @@ public class Rhymes {
 
     public static void main(String[] args) {
         StringBuffer word = null;
-        switch(rnd.nextInt(2)) {
-            case 1:  word = new StringBuffer('P');
-            case 2:  word = new StringBuffer('G');
-            default: word = new StringBuffer('M');
+        switch (rnd.nextInt(2)) {
+            case 1:
+                word = new StringBuffer('P');
+            case 2:
+                word = new StringBuffer('G');
+            default:
+                word = new StringBuffer('M');
         }
         word.append('a');
         word.append('i');

@@ -1,3 +1,5 @@
+package javaPuzzlers.part5ExceptionalPuzzlers.puzzle37;
+
 interface Type1 {
     void f() throws CloneNotSupportedException;
 }

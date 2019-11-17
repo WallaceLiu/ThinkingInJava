@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle89;
+
 public class LinkedList<E> {
     private Node<E> head = null;
 

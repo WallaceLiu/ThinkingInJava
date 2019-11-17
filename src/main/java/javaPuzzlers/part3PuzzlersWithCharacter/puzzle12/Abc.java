@@ -1,3 +1,5 @@
+package javaPuzzlers.part3PuzzlersWithCharacter.puzzle12;
+
 public class Abc {
     public static void main(String[] args) {
         String letters = "ABC";

@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle86;
+
 public class PoisonParen {
     /*
      * Add a declaration that initializes a field to some expression and

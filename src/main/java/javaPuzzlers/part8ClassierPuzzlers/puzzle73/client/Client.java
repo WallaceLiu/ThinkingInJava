@@ -1,4 +1,4 @@
-package client;
+package javaPuzzlers.part8ClassierPuzzlers.puzzle73.client;
 
 import library.Api;
 

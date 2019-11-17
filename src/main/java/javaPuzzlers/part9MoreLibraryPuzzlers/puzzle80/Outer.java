@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle80;
+
 public class Outer {
     public static void main(String[] args) throws Exception {
         new Outer().greetWorld();

@@ -1,3 +1,5 @@
+package javaPuzzlers.part8ClassierPuzzlers.puzzle67;
+
 public class StrungOut {
     public static void main(String[] args) {
         String s = new String("Hello world");

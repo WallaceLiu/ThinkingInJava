@@ -1,3 +1,5 @@
+package javaPuzzlers.part3PuzzlersWithCharacter.puzzle19;
+
 public class Classifier {
     public static void main(String[] args) {
         System.out.println(
@@ -9,11 +11,11 @@ public class Classifier {
             return "NUMERAL ";
         if ("abcdefghijklmnopqrstuvwxyz".indexOf(ch) >= 0)
             return "LETTER ";
-/*
- *      (Operators not supported yet) 
- *      if ("+-*/&|!=".indexOf(ch) >= 0)
- *          return "OPERATOR "; 
- */
+///*
+// *      (Operators not supported yet)
+// *      if ("+-*/&|!=".indexOf(ch) >= 0)
+// *          return "OPERATOR ";
+// */
         return "UNKNOWN "; 
     } 
 }

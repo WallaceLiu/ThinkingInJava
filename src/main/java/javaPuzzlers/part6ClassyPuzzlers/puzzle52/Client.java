@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle52;
+
 class Cache {
     static {
         initializeIfNecessary();

@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle51;
+
 class Point {
     protected final int x, y;
     private final String name; // Cached at construction time

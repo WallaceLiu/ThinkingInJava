@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle63;
+
 import java.util.*;
 
 public class MoreNames {

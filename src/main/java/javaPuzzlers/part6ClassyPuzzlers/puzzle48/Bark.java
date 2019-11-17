@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle48;
+
 class Dog {
     public static void bark() {
         System.out.print("woof ");

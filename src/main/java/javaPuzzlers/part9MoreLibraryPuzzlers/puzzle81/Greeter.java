@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle81;
+
 public class Greeter {
     public static void main (String[] args) {
         String greeting = "Hello world";

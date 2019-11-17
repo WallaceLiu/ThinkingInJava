@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle77;
+
 import java.util.*;
 
 public class Worker extends Thread {

@@ -1,3 +1,5 @@
+package javaPuzzlers.part6ClassyPuzzlers.puzzle50;
+
 public class Type1 {
     public static void main(String[] args) {
         String s = null;

@@ -1,3 +1,5 @@
+package javaPuzzlers.part10AdvancedPuzzlers.puzzle95;
+
 public class ApplePie {
     public static void main(String[] args) {
         int count = 0;

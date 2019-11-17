@@ -1,3 +1,5 @@
+package javaPuzzlers.part3PuzzlersWithCharacter.puzzle18;
+
 public class StringCheese {
     public static void main(String args[]) {
         byte bytes[] = new byte[256];    

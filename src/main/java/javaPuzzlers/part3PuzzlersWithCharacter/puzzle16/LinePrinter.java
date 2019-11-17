@@ -1,3 +1,5 @@
+package javaPuzzlers.part3PuzzlersWithCharacter.puzzle16;
+
 public class LinePrinter {
   public static void main(String[] args) {
     // Note: \u000A is Unicode representation of linefeed (LF)

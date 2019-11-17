@@ -1,3 +1,5 @@
+package javaPuzzlers.part4LoopyPuzzlers.puzzle35;
+
 public class Clock {
     public static void main(String[] args) {
         int minutes = 0;

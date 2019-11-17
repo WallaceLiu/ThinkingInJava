@@ -1,3 +1,5 @@
+package javaPuzzlers.part7LibraryPuzzlers.puzzle65;
+
 import java.util.*;
 
 public class SuspiciousSort {

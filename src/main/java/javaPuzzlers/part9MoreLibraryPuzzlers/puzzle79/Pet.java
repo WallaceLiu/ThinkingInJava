@@ -1,3 +1,5 @@
+package javaPuzzlers.part9MoreLibraryPuzzlers.puzzle79;
+
 public class Pet {
     public final String name;
     public final String food;
