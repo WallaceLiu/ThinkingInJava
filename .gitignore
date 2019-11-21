@@ -31,4 +31,4 @@ target/*
 .DS_Store
 
 # want ignore .java
-javaPuzzlers/*
+src/main/java/javaPuzzlers/*
