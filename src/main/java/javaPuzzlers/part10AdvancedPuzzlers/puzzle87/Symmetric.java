@@ -7,10 +7,10 @@ public class Symmetric {
          * that causes this program to print "true false", then
          * you have proven that the == operator is not symmetric.
          */
-        <typeX> x = <valueX>;
-        <typeY> y = <valueY>;
-
-        System.out.print ((x == y) + " ");
-        System.out.println(y == x);
+//        <typeX> x = <valueX>;
+//        <typeY> y = <valueY>;
+//
+//        System.out.print ((x == y) + " ");
+//        System.out.println(y == x);
     }
 } 

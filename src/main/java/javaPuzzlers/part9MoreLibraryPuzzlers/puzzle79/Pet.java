@@ -25,9 +25,9 @@ public class Pet {
         new Thread() {
             public void run() {
                 while (true) {
-                    eat();
-                    play();
-                    sleep();
+//                    eat();
+//                    play();
+//                    sleep();
                 }
             }
         }.start();
