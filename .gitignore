@@ -27,5 +27,8 @@ hs_err_pid*
 *.iml
 target/*
 
+# sys
+.DS_Store
+
 # want ignore .java
 javaPuzzlers/*
