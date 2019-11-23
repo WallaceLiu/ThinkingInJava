@@ -15,58 +15,42 @@ import java.util.stream.IntStream;
 public class CollectionsDemo {
 
     public static void main(String[] args) {
-//        List<User> usersA = new ArrayList<>();
-//        List<User> usersB = new ArrayList<>();
-//
-//        // 判空
-//        boolean isEmptyUsersA = CollectionUtils.isEmpty(usersA);
-//
-//        // 判等
-//        boolean isEqual = CollectionUtils.isEqualCollection(usersA, usersB);
-//
-//        IntStream.range(1, 11).forEach(i -> {
-//            usersA.add(new User("user" + i, "user" + i));
-//        });
-//
-//        IntStream.range(10, 16).forEach(i -> {
-//            usersB.add(new User("user" + i, "user" + i));
-//        });
-//
-//        System.out.println("usersA");
-//        usersA.stream().forEach(item -> System.out.println(item.toString()));
-//        System.out.println("usersB");
-//        usersB.stream().forEach(item -> System.out.println(item.toString()));
-//
-//        // 交集
-//        Collection retain = CollectionUtils.retainAll(usersA, usersB);
-//        System.out.println("retain");
-//        retain.stream().forEach(item -> System.out.println(item.toString()));
-//
-//        // 并集
-//        Collection union = CollectionUtils.union(usersA, usersB);
-//        System.out.println("union");
-//        union.stream().forEach(item -> System.out.println(item.toString()));
-//
-//        // 差集
-//        Collection subtract = CollectionUtils.subtract(usersA, usersB);
-//        System.out.println("subtract");
-//        subtract.stream().forEach(item -> System.out.println(item.toString()));
+        List<User> usersA = new ArrayList<>();
+        List<User> usersB = new ArrayList<>();
 
-        Set<String> a = new HashSet<>();
-        a.add("1");
-        a.add("2");
+        // 判空
+        boolean isEmptyUsersA = CollectionUtils.isEmpty(usersA);
 
-        Set<String> b = new HashSet<>();
-        b.add("1");
+        // 判等
+        boolean isEqual = CollectionUtils.isEqualCollection(usersA, usersB);
 
-        sub(a, b);
-        a.stream().forEach(item -> System.out.println(item));
+        IntStream.range(1, 11).forEach(i -> {
+            usersA.add(new User("user" + i, "user" + i));
+        });
 
+        IntStream.range(10, 16).forEach(i -> {
+            usersB.add(new User("user" + i, "user" + i));
+        });
 
-    }
+        System.out.println("usersA");
+        usersA.stream().forEach(item -> System.out.println(item.toString()));
+        System.out.println("usersB");
+        usersB.stream().forEach(item -> System.out.println(item.toString()));
 
-    private static void sub(Set<String> s1, Set<String> s2) {
-        s1.removeAll(s2);
+        // 交集
+        Collection retain = CollectionUtils.retainAll(usersA, usersB);
+        System.out.println("retain");
+        retain.stream().forEach(item -> System.out.println(item.toString()));
+
+        // 并集
+        Collection union = CollectionUtils.union(usersA, usersB);
+        System.out.println("union");
+        union.stream().forEach(item -> System.out.println(item.toString()));
+
+        // 差集
+        Collection subtract = CollectionUtils.subtract(usersA, usersB);
+        System.out.println("subtract");
+        subtract.stream().forEach(item -> System.out.println(item.toString()));
     }
 }
 /* output:
