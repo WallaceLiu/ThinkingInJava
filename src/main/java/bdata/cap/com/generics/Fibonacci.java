@@ -3,6 +3,7 @@
 package bdata.cap.com.generics;
 
 import bdata.cap.com.net.mindview.util.*;
+import mindview.util.Generator;
 
 public class Fibonacci implements Generator<Integer> {
   private int count = 0;

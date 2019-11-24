@@ -1,11 +1,12 @@
 //: annotations/StackLStringTest.java
 // Applying @Unit to generics.
 package bdata.cap.com.annotations;
-import bdata.cap.com.net.mindview.atunit.*;
-import bdata.cap.com.net.mindview.util.*;
+import mindview.atunit.Test;
+import mindview.util.OSExecute;
 
 public class StackLStringTest extends StackL<String> {
-  @Test void _push() {
+  @Test
+  void _push() {
     push("one");
     assert top().equals("one");
     push("two");
@@ -24,8 +25,7 @@ public class StackLStringTest extends StackL<String> {
     assert top().equals("B");
   }
   public static void main(String[] args) throws Exception {
-    OSExecute.command(
-      "java net.mindview.atunit.AtUnit StackLStringTest");
+    OSExecute.command("java mindview.atunit.AtUnit StackLStringTest");
   }
 } /* Output:
 annotations.StackLStringTest

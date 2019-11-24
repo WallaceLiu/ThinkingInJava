@@ -14,11 +14,9 @@ import java.util.*;
 
 import static com.sun.mirror.util.DeclarationVisitors.*;
 
-public class TableCreationProcessorFactory
-        implements AnnotationProcessorFactory {
-    public AnnotationProcessor getProcessorFor(
-            Set<AnnotationTypeDeclaration> atds,
-            AnnotationProcessorEnvironment env) {
+public class TableCreationProcessorFactory implements AnnotationProcessorFactory {
+    public AnnotationProcessor getProcessorFor(Set<AnnotationTypeDeclaration> atds,
+                                               AnnotationProcessorEnvironment env) {
         return new TableCreationProcessor(env);
     }
 
@@ -34,8 +32,7 @@ public class TableCreationProcessorFactory
         return Collections.emptySet();
     }
 
-    private static class TableCreationProcessor
-            implements AnnotationProcessor {
+    private static class TableCreationProcessor implements AnnotationProcessor {
         private final AnnotationProcessorEnvironment env;
         private String sql = "";
 
@@ -55,8 +52,7 @@ public class TableCreationProcessorFactory
             }
         }
 
-        private class TableCreationVisitor
-                extends SimpleDeclarationVisitor {
+        private class TableCreationVisitor extends SimpleDeclarationVisitor {
             public void visitClassDeclaration(
                     ClassDeclaration d) {
                 DBTable dbTable = d.getAnnotation(DBTable.class);

@@ -20,6 +20,6 @@ public class User {
     private String password;
 
     public String toString() {
-        return String.format("%s=%s", this.getUsername(), this.getPassword());
+        return String.format("%s:%s", this.getUsername(), this.getPassword());
     }
 }

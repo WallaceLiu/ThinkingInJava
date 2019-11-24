@@ -1,6 +1,7 @@
+package bdata.cap.com.generics;
+
 //: generics/CheckedList.java
 // Using Collection.checkedList().
-package bdata.cap.com.generics;
 
 import bdata.cap.com.typeinfo.pets.Cat;
 import bdata.cap.com.typeinfo.pets.Dog;
@@ -30,9 +31,9 @@ public class CheckedList {
         List<Pet> pets = Collections.checkedList(
                 new ArrayList<Pet>(), Pet.class);
         pets.add(new Dog());
-        /* Output:
-            java.lang.ClassCastException: Attempt to insert class typeinfo.pets.Cat element into collection with element type class typeinfo.pets.Dog
-        */
         //   pets.add(new Cat());
     }
 }
+/* Output:
+    java.lang.ClassCastException: Attempt to insert class typeinfo.pets.Cat element into collection with element type class typeinfo.pets.Dog
+*/

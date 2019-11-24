@@ -1,8 +1,8 @@
-//: annotations/database/Uniqueness.java
-// Sample of nested annotations
 package bdata.cap.com.annotations.database;
 
+//: annotations/database/Uniqueness.java
+// Sample of nested annotations
+
 public @interface Uniqueness {
-  Constraints constraints()
-    default @Constraints(unique=true);
+    Constraints constraints() default @Constraints(unique = true);
 } ///:~

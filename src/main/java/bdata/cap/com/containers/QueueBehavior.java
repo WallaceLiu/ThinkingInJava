@@ -2,7 +2,7 @@
 // Compares the behavior of some of the queues
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Generator;
+import mindview.util.Generator;
 
 import java.util.LinkedList;
 import java.util.PriorityQueue;

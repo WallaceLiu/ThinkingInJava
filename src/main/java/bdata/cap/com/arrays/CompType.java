@@ -3,7 +3,7 @@
 package bdata.cap.com.arrays;
 
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class CompType implements Comparable<CompType> {

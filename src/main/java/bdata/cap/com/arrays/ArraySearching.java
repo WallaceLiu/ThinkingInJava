@@ -4,6 +4,8 @@ package bdata.cap.com.arrays;
 
 import java.util.*;
 import bdata.cap.com.net.mindview.util.*;
+import mindview.util.Generator;
+
 import static bdata.cap.com.net.mindview.util.Print.*;
 
 public class ArraySearching {
@@ -18,8 +20,7 @@ public class ArraySearching {
       int r = gen.next();
       int location = Arrays.binarySearch(a, r);
       if(location >= 0) {
-        print("Location of " + r + " is " + location +
-          ", a[" + location + "] = " + a[location]);
+        print("Location of " + r + " is " + location + ", a[" + location + "] = " + a[location]);
         break; // Out of while loop
       }
     }

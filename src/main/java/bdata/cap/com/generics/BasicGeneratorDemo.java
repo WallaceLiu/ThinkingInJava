@@ -2,6 +2,7 @@
 package bdata.cap.com.generics;
 
 import bdata.cap.com.net.mindview.util.*;
+import mindview.util.Generator;
 
 public class BasicGeneratorDemo {
   public static void main(String[] args) {

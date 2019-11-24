@@ -2,7 +2,7 @@
 // {Args: VendingMachineInput.txt}
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.Generator;
+import mindview.util.Generator;
 import bdata.cap.com.net.mindview.util.TextFile;
 
 import java.util.EnumMap;

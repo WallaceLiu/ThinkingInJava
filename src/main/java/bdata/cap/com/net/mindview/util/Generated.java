@@ -1,6 +1,8 @@
 //: net/mindview/util/Generated.java
 package bdata.cap.com.net.mindview.util;
 
+import mindview.util.Generator;
+
 public class Generated {
     // Fill an existing array:
     public static <T> T[] array(T[] a, Generator<T> gen) {

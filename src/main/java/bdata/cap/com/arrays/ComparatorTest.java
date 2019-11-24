@@ -17,8 +17,7 @@ class CompTypeComparator implements Comparator<CompType> {
 
 public class ComparatorTest {
   public static void main(String[] args) {
-    CompType[] a = Generated.array(
-      new CompType[12], CompType.generator());
+    CompType[] a = Generated.array(new CompType[12], CompType.generator());
     print("before sorting:");
     print(Arrays.toString(a));
     Arrays.sort(a, new CompTypeComparator());

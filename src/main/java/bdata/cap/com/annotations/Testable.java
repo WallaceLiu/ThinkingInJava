@@ -1,11 +1,16 @@
-//: annotations/Testable.java
 package bdata.cap.com.annotations;
 
-import bdata.cap.com.net.mindview.atunit.*;
+//: annotations/Testable.java
+
+import mindview.atunit.Test;
 
 public class Testable {
-  public void execute() {
-    System.out.println("Executing..");
-  }
-  @Test void testExecute() { execute(); }
+    public void execute() {
+        System.out.println("Executing..");
+    }
+
+    @Test
+    void testExecute() {
+        execute();
+    }
 } ///:~

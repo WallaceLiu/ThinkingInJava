@@ -2,7 +2,7 @@
 // An enum can implement an interface
 package bdata.cap.com.enumerated.cartoons;
 
-import bdata.cap.com.net.mindview.util.Generator;
+import mindview.util.Generator;
 
 import java.util.Random;
 

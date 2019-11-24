@@ -6,7 +6,7 @@ package bdata.cap.com.generics;
 import bdata.cap.com.generics.coffee.Coffee;
 import bdata.cap.com.generics.coffee.Latte;
 import bdata.cap.com.generics.coffee.Mocha;
-import bdata.cap.com.net.mindview.util.Generator;
+import mindview.util.Generator;
 
 import java.util.ArrayList;
 import java.util.Collection;

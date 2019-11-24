@@ -4,7 +4,7 @@ package bdata.cap.com.generics;
 
 import bdata.cap.com.generics.coffee.*;
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 public class Generators {
   public static <T> Collection<T>

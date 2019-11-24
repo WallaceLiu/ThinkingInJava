@@ -2,7 +2,7 @@
 // Analyzing enums using reflection.
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.OSExecute;
+import mindview.util.OSExecute;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Type;

@@ -1,8 +1,8 @@
 //: annotations/AtUnitExample2.java
 // Assertions and chapter12 can be used in @Tests.
 package bdata.cap.com.annotations;
-import bdata.cap.com.net.mindview.atunit.Test;
-import bdata.cap.com.net.mindview.util.OSExecute;
+import mindview.atunit.Test;
+import mindview.util.OSExecute;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -15,7 +15,8 @@ public class AtUnitExample2 {
     System.out.println("This is methodTwo");
     return 2;
   }
-  @Test void assertExample() {
+  @Test
+  void assertExample() {
     assert methodOne().equals("This is methodOne");
   }
   @Test void assertFailureExample() {
@@ -30,8 +31,7 @@ public class AtUnitExample2 {
     return methodOne().equals("This is methodOne");
   }
   public static void main(String[] args) throws Exception {
-    OSExecute.command(
-      "java net.mindview.atunit.AtUnit AtUnitExample2");
+    OSExecute.command("java mindview.atunit.AtUnit AtUnitExample2");
   }
 } /* Output:
 annotations.AtUnitExample2

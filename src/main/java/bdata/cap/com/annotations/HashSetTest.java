@@ -1,7 +1,7 @@
 //: annotations/HashSetTest.java
 package bdata.cap.com.annotations;
-import bdata.cap.com.net.mindview.atunit.Test;
-import bdata.cap.com.net.mindview.util.OSExecute;
+import mindview.atunit.Test;
+import mindview.util.OSExecute;
 
 import java.util.HashSet;
 
@@ -19,7 +19,7 @@ public class HashSetTest {
     testObject.remove("one");
     assert testObject.isEmpty();
   }
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args)  {
     OSExecute.command(
       "java net.mindview.atunit.AtUnit HashSetTest");
   }

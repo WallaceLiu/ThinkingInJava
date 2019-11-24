@@ -1,17 +1,18 @@
-//: annotations/database/Member.java
 package bdata.cap.com.annotations.database;
+
+//: annotations/database/Member.java
 
 @DBTable(name = "MEMBER")
 public class Member {
-    @bdata.cap.com.annotations.database.SQLString(30)
+    @SQLString(30)
     String firstName;
-    @bdata.cap.com.annotations.database.SQLString(50)
+    @SQLString(50)
     String lastName;
-    @bdata.cap.com.annotations.database.SQLInteger
+    @SQLInteger
     Integer age;
-    @bdata.cap.com.annotations.database.SQLString(value = 30,
-            constraints = @Constraints(primaryKey = true))
+    @SQLString(value = 30, constraints = @Constraints(primaryKey = true))
     String handle;
+
     static int memberCount;
 
     public String getHandle() {

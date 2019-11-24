@@ -2,6 +2,8 @@
 // A Collection filled with data using a generator object.
 package bdata.cap.com.net.mindview.util;
 
+import mindview.util.Generator;
+
 import java.util.ArrayList;
 
 public class CollectionData<T> extends ArrayList<T> {

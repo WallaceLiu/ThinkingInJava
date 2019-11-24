@@ -2,7 +2,7 @@
 package bdata.cap.com.containers;
 
 import bdata.cap.com.net.mindview.util.CollectionData;
-import bdata.cap.com.net.mindview.util.Generator;
+import mindview.util.Generator;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

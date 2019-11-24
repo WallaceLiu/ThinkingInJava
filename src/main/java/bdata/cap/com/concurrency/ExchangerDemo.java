@@ -3,7 +3,7 @@ package bdata.cap.com.concurrency;
 
 import java.util.concurrent.*;
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 class ExchangerProducer<T> implements Runnable {
   private Generator<T> generator;

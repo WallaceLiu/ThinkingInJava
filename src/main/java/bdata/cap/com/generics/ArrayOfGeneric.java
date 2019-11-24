@@ -1,5 +1,6 @@
-//: generics/ArrayOfGeneric.java
 package bdata.cap.com.generics;
+
+//: generics/ArrayOfGeneric.java
 
 public class ArrayOfGeneric {
     static final int SIZE = 100;

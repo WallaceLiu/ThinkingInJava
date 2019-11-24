@@ -1,7 +1,7 @@
 //: containers/MapDataTest.java
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 import java.util.Iterator;
 

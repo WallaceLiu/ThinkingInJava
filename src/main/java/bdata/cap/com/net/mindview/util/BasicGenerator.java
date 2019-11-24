@@ -3,6 +3,8 @@
 // with a default (no-arg) constructor.
 package bdata.cap.com.net.mindview.util;
 
+import mindview.util.Generator;
+
 public class BasicGenerator<T> implements Generator<T> {
   private Class<T> type;
   public BasicGenerator(Class<T> type){ this.type = type; }

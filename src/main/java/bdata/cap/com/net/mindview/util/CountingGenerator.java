@@ -2,6 +2,8 @@
 // Simple generator implementations.
 package bdata.cap.com.net.mindview.util;
 
+import mindview.util.Generator;
+
 public class CountingGenerator {
     public static class Boolean implements Generator<java.lang.Boolean> {
         private boolean value = false;
