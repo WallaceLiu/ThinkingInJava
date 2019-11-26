@@ -1,7 +1,7 @@
 //: control/IfElse.java
 package bdata.cap.com.control;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class IfElse {
   static int result = 0;

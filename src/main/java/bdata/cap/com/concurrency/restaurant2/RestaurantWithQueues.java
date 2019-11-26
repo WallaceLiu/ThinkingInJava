@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.*;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 // This is given to the waiter, who gives it to the chef:
 class Order { // (A data-transfer object)

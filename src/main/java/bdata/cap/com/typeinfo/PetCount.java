@@ -4,7 +4,7 @@ package bdata.cap.com.typeinfo;
 
 import bdata.cap.com.typeinfo.pets.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class PetCount {
   static class PetCounter extends HashMap<String,Integer> {

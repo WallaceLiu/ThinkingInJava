@@ -2,9 +2,11 @@
 // Searching with a Comparator.
 package bdata.cap.com.arrays;
 
+import mindview.util.Generated;
+import mindview.util.RandomGenerator;
+
 import java.util.*;
 
-import bdata.cap.com.net.mindview.util.*;
 
 public class AlphabeticSearch {
     public static void main(String[] args) {

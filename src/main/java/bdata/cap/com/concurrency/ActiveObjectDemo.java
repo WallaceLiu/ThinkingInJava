@@ -6,7 +6,7 @@ package bdata.cap.com.concurrency;
 // to asynch methods.
 import java.util.concurrent.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ActiveObjectDemo {
 	private ExecutorService ex =

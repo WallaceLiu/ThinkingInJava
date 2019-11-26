@@ -1,6 +1,7 @@
+package mindview.util;
+
 //: net/mindview/util/CountingIntegerList.java
 // List of any length, containing sample data.
-package mindview.util;
 
 import java.util.AbstractList;
 

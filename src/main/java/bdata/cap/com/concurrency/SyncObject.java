@@ -2,7 +2,7 @@
 // Synchronizing on another object.
 package bdata.cap.com.concurrency;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class DualSynch {
 	private Object syncObject = new Object();

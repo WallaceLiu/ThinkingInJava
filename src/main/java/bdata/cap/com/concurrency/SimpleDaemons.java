@@ -3,7 +3,8 @@
 package bdata.cap.com.concurrency;
 
 import java.util.concurrent.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 public class SimpleDaemons implements Runnable {
   public void run() {

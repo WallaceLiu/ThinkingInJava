@@ -1,7 +1,7 @@
 //: strings/Replacing.java
 package bdata.cap.com.strings;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Replacing {
   static String s = Splitting.knights;

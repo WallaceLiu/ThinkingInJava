@@ -2,7 +2,8 @@
 // Producing an alphabetic listing.
 package bdata.cap.com.chapter11;
 
-import bdata.cap.com.net.mindview.util.TextFile;
+
+import mindview.util.TextFile;
 
 import java.util.Set;
 import java.util.TreeSet;

@@ -6,7 +6,7 @@ package bdata.cap.com.io;
 import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class LargeMappedFiles {
   static int length = 0x8FFFFFF; // 128 MB

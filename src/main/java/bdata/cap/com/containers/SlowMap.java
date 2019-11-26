@@ -2,7 +2,8 @@
 // A Map implemented with ArrayLists.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Countries;
+
+import mindview.util.Countries;
 
 import java.util.*;
 

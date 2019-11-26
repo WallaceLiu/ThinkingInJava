@@ -3,7 +3,7 @@
 // what you're used to.
 package bdata.cap.com.operators;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Letter {
   char c;

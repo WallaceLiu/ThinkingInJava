@@ -3,7 +3,7 @@
 // a private or private final method.
 package bdata.cap.com.reusing;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class WithFinals {
   // Identical to "private" alone:

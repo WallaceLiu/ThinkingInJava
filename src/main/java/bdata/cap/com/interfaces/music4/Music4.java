@@ -2,7 +2,7 @@
 // Abstract classes and methods.
 package bdata.cap.com.interfaces.music4;
 import bdata.cap.com.polymorphism.music.Note;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 abstract class Instrument {
   private int i; // Storage allocated for each

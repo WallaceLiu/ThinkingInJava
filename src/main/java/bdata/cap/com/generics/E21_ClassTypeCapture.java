@@ -2,7 +2,7 @@ package bdata.cap.com.generics;
 
 import java.util.HashMap;
 import java.util.Map;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 //: generics/ClassTypeCapture.java
 class ClassTypeCapture2 {

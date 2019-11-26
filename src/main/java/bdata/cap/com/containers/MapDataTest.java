@@ -5,7 +5,8 @@ import mindview.util.*;
 
 import java.util.Iterator;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
+
 
 class Letters implements Generator<Pair<Integer,String>>,
   Iterable<Integer> {

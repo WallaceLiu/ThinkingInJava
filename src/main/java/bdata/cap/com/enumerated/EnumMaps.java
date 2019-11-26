@@ -4,7 +4,7 @@ package bdata.cap.com.enumerated;
 
 import java.util.*;
 import static bdata.cap.com.enumerated.AlarmPoints.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface Command { void action(); }
 

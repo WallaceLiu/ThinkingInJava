@@ -3,7 +3,7 @@
 package bdata.cap.com.io;
 
 import java.io.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Blip3 implements Externalizable {
   private int i;

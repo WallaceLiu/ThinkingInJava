@@ -2,7 +2,7 @@ package bdata.cap.com.io;
 
 //: io/PreferencesDemo.java
 import java.util.prefs.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class PreferencesDemo {
   public static void main(String[] args) throws Exception {

@@ -6,7 +6,7 @@ package bdata.cap.com.typeinfo;
 
 import java.lang.reflect.*;
 import java.util.regex.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ShowMethods {
 	private static String usage =

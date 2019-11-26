@@ -3,7 +3,7 @@
 package bdata.cap.com.reusing;
 
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Value {
   int i; // Package access

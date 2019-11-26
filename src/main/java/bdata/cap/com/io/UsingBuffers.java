@@ -2,7 +2,7 @@ package bdata.cap.com.io;
 
 //: io/UsingBuffers.java
 import java.nio.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class UsingBuffers {
   private static void symmetricScramble(CharBuffer buffer){

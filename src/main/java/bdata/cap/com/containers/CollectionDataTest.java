@@ -1,7 +1,7 @@
 //: containers/CollectionDataTest.java
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.CollectionData;
+import mindview.util.CollectionData;
 import mindview.util.Generator;
 
 import java.util.LinkedHashSet;

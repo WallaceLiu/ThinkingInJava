@@ -1,7 +1,8 @@
 //: chapter11/ContainerMethods.java
 package bdata.cap.com.chapter11;
 
-import bdata.cap.com.net.mindview.util.*;
+
+import mindview.util.ContainerMethodDifferences;
 
 public class ContainerMethods {
   public static void main(String[] args) {

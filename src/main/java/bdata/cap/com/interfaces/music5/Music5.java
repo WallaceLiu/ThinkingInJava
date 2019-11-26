@@ -2,7 +2,7 @@
 // Interfaces.
 package bdata.cap.com.interfaces.music5;
 import bdata.cap.com.polymorphism.music.Note;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface Instrument {
   // Compile-time constant:

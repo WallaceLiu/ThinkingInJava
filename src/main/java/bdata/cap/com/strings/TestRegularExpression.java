@@ -4,7 +4,8 @@
 package bdata.cap.com.strings;
 
 import java.util.regex.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 public class TestRegularExpression {
   public static void main(String[] args) {

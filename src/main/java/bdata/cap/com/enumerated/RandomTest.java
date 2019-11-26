@@ -1,7 +1,7 @@
 //: enumerated/RandomTest.java
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 enum Activity { SITTING, LYING, STANDING, HOPPING,
   RUNNING, DODGING, JUMPING, FALLING, FLYING }

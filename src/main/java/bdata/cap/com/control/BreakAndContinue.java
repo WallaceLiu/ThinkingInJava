@@ -2,7 +2,7 @@
 // Demonstrates break and continue keywords.
 package bdata.cap.com.control;
 
-import static bdata.cap.com.net.mindview.util.Range.*;
+import static mindview.util.Range.*;
 
 public class BreakAndContinue {
   public static void main(String[] args) {

@@ -1,7 +1,7 @@
 //: enumerated/OverrideConstantSpecific.java
 package bdata.cap.com.enumerated;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public enum OverrideConstantSpecific {
   NUT, BOLT,

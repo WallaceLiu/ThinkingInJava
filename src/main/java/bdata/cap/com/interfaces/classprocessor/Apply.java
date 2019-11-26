@@ -3,7 +3,7 @@ package bdata.cap.com.interfaces.classprocessor;
 
 import java.util.Arrays;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 class Processor {
     public String name() {

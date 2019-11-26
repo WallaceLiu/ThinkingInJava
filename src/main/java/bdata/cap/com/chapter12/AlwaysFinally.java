@@ -2,7 +2,7 @@
 // Finally is always executed.
 package bdata.cap.com.chapter12;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class FourException extends Exception {
 }

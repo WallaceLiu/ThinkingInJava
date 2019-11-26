@@ -1,7 +1,7 @@
 //: strings/Immutable.java
 package bdata.cap.com.strings;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Immutable {
   public static String upcase(String s) {

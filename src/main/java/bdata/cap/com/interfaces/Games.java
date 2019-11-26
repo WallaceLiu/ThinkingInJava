@@ -2,7 +2,7 @@
 // A Game framework using Factory Methods.
 package bdata.cap.com.interfaces;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface Game { boolean move(); }
 interface GameFactory { Game getGame(); }

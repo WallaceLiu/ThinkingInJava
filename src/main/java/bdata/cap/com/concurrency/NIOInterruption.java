@@ -7,7 +7,7 @@ import java.nio.*;
 import java.nio.channels.*;
 import java.util.concurrent.*;
 import java.io.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class NIOBlocked implements Runnable {
   private final SocketChannel sc;

@@ -1,6 +1,7 @@
+package mindview.util;
+
 //: net/mindview/util/CountingGenerator.java
 // Simple generator implementations.
-package mindview.util;
 
 public class CountingGenerator {
     public static class Boolean implements Generator<java.lang.Boolean> {

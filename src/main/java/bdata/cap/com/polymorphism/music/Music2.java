@@ -2,7 +2,7 @@
 // Overloading instead of upcasting.
 package bdata.cap.com.polymorphism.music;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Stringed extends Instrument {
   public void play(Note n) {

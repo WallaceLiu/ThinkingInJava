@@ -3,8 +3,8 @@ package bdata.cap.com.chapter11;
 
 public class StackCollision {
     public static void main(String[] args) {
-        bdata.cap.com.net.mindview.util.Stack<String> stack =
-                new bdata.cap.com.net.mindview.util.Stack<String>();
+        mindview.util.Stack<String> stack =
+                new mindview.util.Stack<String>();
         for (String s : "My dog has fleas".split(" "))
             stack.push(s);
         while (!stack.empty())

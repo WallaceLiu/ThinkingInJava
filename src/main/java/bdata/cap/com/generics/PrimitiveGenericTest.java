@@ -1,7 +1,7 @@
 //: generics/PrimitiveGenericTest.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 import mindview.util.Generator;
 
 // Fill an array using a generator:

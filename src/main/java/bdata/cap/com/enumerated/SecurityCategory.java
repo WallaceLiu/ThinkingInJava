@@ -2,7 +2,7 @@
 // More succinct subcategorization of enums.
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 enum SecurityCategory {
   STOCK(Security.Stock.class), BOND(Security.Bond.class);

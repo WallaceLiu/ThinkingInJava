@@ -2,7 +2,7 @@
 // The difference between instanceof and class
 package bdata.cap.com.typeinfo;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Base {}
 class Derived extends Base {}	

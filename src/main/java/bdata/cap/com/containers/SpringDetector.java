@@ -4,7 +4,8 @@ package bdata.cap.com.containers;
 
 import java.lang.reflect.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 public class SpringDetector {
   // Uses a Groundhog or class derived from Groundhog:

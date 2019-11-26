@@ -1,8 +1,11 @@
 //: containers/DequeTest.java
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import mindview.util.Deque;
+
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 public class DequeTest {
   static void fillTest(Deque<Integer> deque) {

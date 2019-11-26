@@ -4,7 +4,7 @@ package bdata.cap.com.concurrency;
 
 import java.util.concurrent.*;
 import java.io.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class LiftOffRunner implements Runnable {
 	private BlockingQueue<LiftOff> rockets;

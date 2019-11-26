@@ -2,7 +2,7 @@
 // Order of constructor calls.
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Meal {
   Meal() { print("Meal()"); }

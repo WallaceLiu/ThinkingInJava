@@ -3,7 +3,7 @@
 package bdata.cap.com.chapter12;
 
 import java.io.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class WrapCheckedException {
   void throwRuntimeException(int type) {

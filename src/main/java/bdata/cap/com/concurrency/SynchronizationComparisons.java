@@ -7,7 +7,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import java.util.concurrent.locks.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
+import static mindview.util.Print.printf;
 
 abstract class Accumulator {
   public static long cycles = 50000L;

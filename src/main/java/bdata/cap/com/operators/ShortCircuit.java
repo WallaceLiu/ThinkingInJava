@@ -3,7 +3,7 @@
 // with logical operators.
 package bdata.cap.com.operators;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ShortCircuit {
   static boolean test1(int val) {

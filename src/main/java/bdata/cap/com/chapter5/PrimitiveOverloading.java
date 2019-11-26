@@ -1,8 +1,8 @@
 package bdata.cap.com.chapter5;//: initialization/PrimitiveOverloading.java
 // Promotion of primitives and overloading.
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 public class PrimitiveOverloading {
   void f1(char x) { printnb("f1(char) "); }

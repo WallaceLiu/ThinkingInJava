@@ -4,7 +4,7 @@ package bdata.cap.com.containers;
 // Does Math.random() produce 0.0 and 1.0?
 // {RunByHand}
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class RandomBounds {
     static void usage() {

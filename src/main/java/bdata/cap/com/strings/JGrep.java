@@ -3,7 +3,7 @@
 // {Args: JGrep.java "\\b[Ssct]\\w+"}
 package bdata.cap.com.strings;
 
-import bdata.cap.com.net.mindview.util.TextFile;
+import mindview.util.TextFile;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

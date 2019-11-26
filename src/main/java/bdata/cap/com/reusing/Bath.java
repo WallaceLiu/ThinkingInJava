@@ -2,7 +2,7 @@
 // Constructor initialization with composition.
 package bdata.cap.com.reusing;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Soap {
   private String s;

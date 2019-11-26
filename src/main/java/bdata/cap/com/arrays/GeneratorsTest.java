@@ -1,7 +1,7 @@
 //: arrays/GeneratorsTest.java
 package bdata.cap.com.arrays;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.CountingGenerator;
 import mindview.util.Generator;
 
 public class GeneratorsTest {

@@ -1,7 +1,7 @@
 //: innerclasses/Factories.java
 package bdata.cap.com.chapter10;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface Service {
   void method1();

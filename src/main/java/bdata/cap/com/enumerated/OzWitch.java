@@ -2,7 +2,7 @@
 // The witches in the land of Oz.
 package bdata.cap.com.enumerated;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public enum OzWitch {
   // Instances must be defined first, before methods:

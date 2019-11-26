@@ -1,7 +1,7 @@
 //: generics/TupleTest.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 class Amphibian {}
 class Vehicle {}

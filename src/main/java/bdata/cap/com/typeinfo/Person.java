@@ -2,7 +2,7 @@
 // A class with a Null Object.
 package bdata.cap.com.typeinfo;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 class Person {
   public final String first;

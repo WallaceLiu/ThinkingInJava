@@ -1,8 +1,8 @@
 //: generics/TupleTest2.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.*;
-import static bdata.cap.com.net.mindview.util.Tuple.*;
+import mindview.util.*;
+import static mindview.util.Tuple.*;
 
 public class TupleTest2 {
   static TwoTuple<String,Integer> f() {

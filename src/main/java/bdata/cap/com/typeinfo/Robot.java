@@ -1,7 +1,7 @@
 //: typeinfo/Robot.java
 package bdata.cap.com.typeinfo;
 
-import bdata.cap.com.net.mindview.util.Null;
+import mindview.util.Null;
 
 import java.util.List;
 

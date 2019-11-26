@@ -2,7 +2,8 @@
 // A demonstration hashed Map.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Countries;
+
+import mindview.util.Countries;
 
 import java.util.*;
 

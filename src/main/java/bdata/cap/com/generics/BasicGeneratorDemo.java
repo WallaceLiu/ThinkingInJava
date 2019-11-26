@@ -1,7 +1,7 @@
 //: generics/BasicGeneratorDemo.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.BasicGenerator;
 import mindview.util.Generator;
 
 public class BasicGeneratorDemo {

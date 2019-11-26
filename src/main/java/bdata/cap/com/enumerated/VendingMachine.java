@@ -3,13 +3,13 @@
 package bdata.cap.com.enumerated;
 
 import mindview.util.Generator;
-import bdata.cap.com.net.mindview.util.TextFile;
+import mindview.util.TextFile;
 
 import java.util.EnumMap;
 import java.util.Iterator;
 
 import static bdata.cap.com.enumerated.Input.*;
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 enum Category {
   MONEY(NICKEL, DIME, QUARTER, DOLLAR),

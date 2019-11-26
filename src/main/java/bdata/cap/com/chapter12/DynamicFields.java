@@ -3,7 +3,7 @@
 // Demonstrates exception chaining.
 package bdata.cap.com.chapter12;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class DynamicFieldsException extends Exception {}
 

@@ -2,7 +2,8 @@
 // Java 1.0/1.1 Vector and Enumeration.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Countries;
+
+import mindview.util.Countries;
 
 import java.util.ArrayList;
 import java.util.Collections;

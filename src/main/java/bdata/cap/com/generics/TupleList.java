@@ -2,7 +2,7 @@
 // Combining generic types to make complex generic types.
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.FourTuple;
+import mindview.util.FourTuple;
 
 import java.util.ArrayList;
 

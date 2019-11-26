@@ -3,7 +3,7 @@
 package bdata.cap.com.generics;
 
 import bdata.cap.com.typeinfo.pets.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class PerformingDog extends Dog implements Performs {
   public void speak() { print("Woof!"); }

@@ -3,7 +3,7 @@
 package bdata.cap.com.generics;
 
 import java.lang.reflect.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 // Does not implement Performs:
 class Mime {

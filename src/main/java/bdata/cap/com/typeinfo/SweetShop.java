@@ -2,7 +2,7 @@
 // Examination of the way the class loader works.
 package bdata.cap.com.typeinfo;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Candy {
   static { print("Loading Candy"); }

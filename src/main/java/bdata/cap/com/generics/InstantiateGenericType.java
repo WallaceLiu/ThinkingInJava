@@ -1,7 +1,7 @@
 //: generics/InstantiateGenericType.java
 package bdata.cap.com.generics;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 class ClassAsFactory<T> {
     T x;

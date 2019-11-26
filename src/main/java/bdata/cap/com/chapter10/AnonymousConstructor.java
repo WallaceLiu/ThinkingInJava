@@ -2,7 +2,7 @@
 // Creating a constructor for an anonymous inner class.
 package bdata.cap.com.chapter10;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 abstract class Base {
     public Base(int i) {

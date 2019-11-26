@@ -2,7 +2,7 @@
 // For loops with "labeled break" and "labeled continue."
 package bdata.cap.com.control;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class LabeledFor {
   public static void main(String[] args) {

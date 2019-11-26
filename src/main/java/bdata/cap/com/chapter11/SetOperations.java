@@ -2,7 +2,7 @@
 package bdata.cap.com.chapter11;
 
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class SetOperations {
   public static void main(String[] args) {

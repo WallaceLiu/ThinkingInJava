@@ -2,7 +2,7 @@
 // Trying to override a private method.
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class PrivateOverride {
   private void f() { print("private f()"); }

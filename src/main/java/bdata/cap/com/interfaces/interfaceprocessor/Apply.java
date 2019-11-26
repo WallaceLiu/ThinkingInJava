@@ -1,6 +1,6 @@
 //: interfaces/interfaceprocessor/Apply.java
 package bdata.cap.com.interfaces.interfaceprocessor;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Apply {
   public static void process(Processor p, Object s) {

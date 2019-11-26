@@ -4,7 +4,7 @@ package bdata.cap.com.concurrency;
 
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class BlockedMutex {
   private Lock lock = new ReentrantLock();

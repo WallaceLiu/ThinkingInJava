@@ -4,7 +4,7 @@ package bdata.cap.com.generics;
 import java.math.*;
 import java.util.concurrent.atomic.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 // Different types of function objects:
 interface Combiner<T> { T combine(T x, T y); }

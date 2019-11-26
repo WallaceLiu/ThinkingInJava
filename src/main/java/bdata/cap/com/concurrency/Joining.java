@@ -2,7 +2,8 @@
 // Understanding join().
 package bdata.cap.com.concurrency;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 class Sleeper extends Thread {
   private int duration;

@@ -2,7 +2,7 @@
 // Common tools for RoShamBo examples.
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 public class RoShamBo {
   public static <T extends Competitor<T>>

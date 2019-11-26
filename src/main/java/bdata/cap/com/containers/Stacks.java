@@ -3,7 +3,7 @@
 package bdata.cap.com.containers;
 
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 enum Month { JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE,
   JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER }
@@ -31,8 +31,8 @@ public class Stacks {
 
     // Using the Stack class from
     // the Holding Your Objects Chapter:
-    bdata.cap.com.net.mindview.util.Stack<String> stack2 =
-      new bdata.cap.com.net.mindview.util.Stack<String>();
+    mindview.util.Stack<String> stack2 =
+      new mindview.util.Stack<String>();
     for(Month m : Month.values())
       stack2.push(m.toString());
     print("stack2 = " + stack2);

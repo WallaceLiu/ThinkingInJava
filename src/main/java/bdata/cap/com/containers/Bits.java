@@ -3,7 +3,7 @@
 package bdata.cap.com.containers;
 
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Bits {
   public static void printBitSet(BitSet b) {

@@ -19,7 +19,7 @@ import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 public class AtUnitRemover
 implements ProcessFiles.Strategy {

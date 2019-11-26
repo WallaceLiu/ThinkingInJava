@@ -2,7 +2,8 @@
 // Using inner classes for callbacks
 package bdata.cap.com.chapter10;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 interface Incrementable {
   void increment();

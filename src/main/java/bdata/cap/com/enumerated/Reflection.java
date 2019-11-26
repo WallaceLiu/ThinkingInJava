@@ -9,8 +9,8 @@ import java.lang.reflect.Type;
 import java.util.Set;
 import java.util.TreeSet;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 enum Explore { HERE, THERE }
 

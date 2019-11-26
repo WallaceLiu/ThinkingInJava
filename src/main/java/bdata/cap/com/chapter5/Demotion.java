@@ -1,6 +1,6 @@
 package bdata.cap.com.chapter5;//: initialization/Demotion.java
 // Demotion of primitives and overloading.
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Demotion {
   void f1(char x) { print("f1(char)"); }

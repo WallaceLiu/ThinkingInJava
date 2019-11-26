@@ -2,7 +2,7 @@
 // Using anonymous inner classes with the Game framework.
 package bdata.cap.com.chapter10;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface Game { boolean move(); }
 interface GameFactory { Game getGame(); }

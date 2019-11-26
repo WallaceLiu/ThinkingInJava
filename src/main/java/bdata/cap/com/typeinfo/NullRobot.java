@@ -2,7 +2,7 @@
 // Using a dynamic proxy to create a Null Object.
 package bdata.cap.com.typeinfo;
 
-import bdata.cap.com.net.mindview.util.Null;
+import mindview.util.Null;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

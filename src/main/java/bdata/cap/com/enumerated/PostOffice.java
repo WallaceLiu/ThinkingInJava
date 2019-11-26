@@ -2,11 +2,11 @@
 // Modeling a post office.
 package bdata.cap.com.enumerated;
 
-import bdata.cap.com.net.mindview.util.Enums;
+import mindview.util.Enums;
 
 import java.util.Iterator;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 class Mail {
   // The NO's lower the probability of random selection:

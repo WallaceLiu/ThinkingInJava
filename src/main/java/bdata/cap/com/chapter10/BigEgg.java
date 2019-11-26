@@ -2,7 +2,8 @@ package bdata.cap.com.chapter10;
 
 //: innerclasses/BigEgg.java
 // An inner class cannot be overriden like a method.
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 class Egg {
   private Yolk y;

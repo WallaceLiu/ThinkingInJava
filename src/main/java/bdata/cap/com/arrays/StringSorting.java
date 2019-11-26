@@ -2,9 +2,12 @@
 // Sorting an array of Strings.
 package bdata.cap.com.arrays;
 
+import mindview.util.Generated;
+import mindview.util.RandomGenerator;
+
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 public class StringSorting {
   public static void main(String[] args) {

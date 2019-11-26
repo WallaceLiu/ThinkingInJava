@@ -1,7 +1,7 @@
 //: chapter12/Switch.java
 package bdata.cap.com.chapter12;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Switch {
   private boolean state = false;

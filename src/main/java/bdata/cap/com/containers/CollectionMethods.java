@@ -2,14 +2,16 @@
 // Things you can do with all Collections.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Countries;
+
+import mindview.util.Countries;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
+
 
 public class CollectionMethods {
   public static void main(String[] args) {

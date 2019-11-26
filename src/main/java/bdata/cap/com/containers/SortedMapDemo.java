@@ -2,12 +2,14 @@
 // What you can do with a TreeMap.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.CountingMapData;
+
+import mindview.util.CountingMapData;
 
 import java.util.Iterator;
 import java.util.TreeMap;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
+
 
 public class SortedMapDemo {
   public static void main(String[] args) {

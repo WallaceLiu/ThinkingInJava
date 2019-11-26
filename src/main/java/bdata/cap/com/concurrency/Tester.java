@@ -2,8 +2,10 @@
 // Framework to test performance of concurrency containers.
 package bdata.cap.com.concurrency;
 
+import mindview.util.Generated;
+import mindview.util.RandomGenerator;
+
 import java.util.concurrent.*;
-import bdata.cap.com.net.mindview.util.*;
 
 public abstract class Tester<C> {
   static int testReps = 10;

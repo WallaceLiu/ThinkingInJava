@@ -2,7 +2,7 @@
 // Further embellishment of exception classes.
 package bdata.cap.com.chapter12;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class MyException2 extends Exception {
   private int x;

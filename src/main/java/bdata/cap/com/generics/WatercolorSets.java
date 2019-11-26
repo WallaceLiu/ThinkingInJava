@@ -3,8 +3,8 @@ package bdata.cap.com.generics;
 
 import bdata.cap.com.generics.watercolors.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
-import static bdata.cap.com.net.mindview.util.Sets.*;
+import static mindview.util.Print.*;
+import static mindview.util.Sets.*;
 import static bdata.cap.com.generics.watercolors.Watercolors.*;
 
 public class WatercolorSets {

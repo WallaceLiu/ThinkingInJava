@@ -1,7 +1,7 @@
 //: generics/ExplicitTypeSpecification.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.New;
+import mindview.util.New;
 import bdata.cap.com.typeinfo.pets.Person;
 import bdata.cap.com.typeinfo.pets.Pet;
 

@@ -2,7 +2,8 @@
 // Cleanup and inheritance.
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+
+import static mindview.util.Print.print;
 
 class Characteristic {
     private String s;

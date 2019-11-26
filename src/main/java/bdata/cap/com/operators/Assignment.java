@@ -2,7 +2,7 @@
 // Assignment with objects is a bit tricky.
 package bdata.cap.com.operators;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Tank {
   int level;

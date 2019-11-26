@@ -4,7 +4,7 @@ package bdata.cap.com.arrays;
 
 import java.util.*;
 import mindview.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class CompType implements Comparable<CompType> {
   int i;

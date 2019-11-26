@@ -1,7 +1,7 @@
 //: enumerated/menu/Course.java
 package bdata.cap.com.enumerated.menu;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 public enum Course {
   APPETIZER(Food.Appetizer.class),

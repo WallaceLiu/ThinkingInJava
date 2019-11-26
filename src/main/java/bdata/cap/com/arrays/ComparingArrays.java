@@ -3,7 +3,7 @@
 package bdata.cap.com.arrays;
 
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ComparingArrays {
   public static void main(String[] args) {

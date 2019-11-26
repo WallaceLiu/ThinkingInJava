@@ -3,7 +3,8 @@ package bdata.cap.com.containers;
 //: containers/AssociativeArray.java
 // Associates keys with values.
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+
+import static mindview.util.Print.print;
 
 public class AssociativeArray<K, V> {
     private Object[][] pairs;

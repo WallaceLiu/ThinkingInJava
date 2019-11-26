@@ -3,7 +3,7 @@
 // via composition (the "State" design pattern).
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Actor {
   public void act() {}

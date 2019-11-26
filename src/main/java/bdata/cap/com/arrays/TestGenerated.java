@@ -1,8 +1,10 @@
 //: arrays/TestGenerated.java
 package bdata.cap.com.arrays;
 
+import mindview.util.CountingGenerator;
+import mindview.util.Generated;
+
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
 
 public class TestGenerated {
   public static void main(String[] args) {

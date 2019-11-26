@@ -1,7 +1,7 @@
 //: typeinfo/toys/ToyTest.java
 // Testing class Class.
 package bdata.cap.com.typeinfo.toys;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 interface HasBatteries {}
 interface Waterproof {}

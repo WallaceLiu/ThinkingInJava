@@ -3,7 +3,7 @@ package bdata.cap.com.strings;
 
 import java.util.regex.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class SplitDemo {
   public static void main(String[] args) {

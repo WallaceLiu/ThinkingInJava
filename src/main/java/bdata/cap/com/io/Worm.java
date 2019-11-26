@@ -4,7 +4,7 @@ package bdata.cap.com.io;
 // Demonstrates object serialization.
 import java.io.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Data implements Serializable {
 	private int n;

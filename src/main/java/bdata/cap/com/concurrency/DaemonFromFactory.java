@@ -2,13 +2,15 @@
 // Using a Thread Factory to create daemons.
 package bdata.cap.com.concurrency;
 
-import bdata.cap.com.net.mindview.util.DaemonThreadFactory;
+
+import mindview.util.DaemonThreadFactory;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
+
 
 public class DaemonFromFactory implements Runnable {
   public void run() {

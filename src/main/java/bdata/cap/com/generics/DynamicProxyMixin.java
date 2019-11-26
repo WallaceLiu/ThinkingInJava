@@ -1,7 +1,7 @@
 //: generics/DynamicProxyMixin.java
 package bdata.cap.com.generics;
 
-import bdata.cap.com.net.mindview.util.TwoTuple;
+import mindview.util.TwoTuple;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -9,7 +9,7 @@ import java.lang.reflect.Proxy;
 import java.util.HashMap;
 import java.util.Map;
 
-import static bdata.cap.com.net.mindview.util.Tuple.tuple;
+import static mindview.util.Tuple.tuple;
 
 class MixinProxy implements InvocationHandler {
   Map<String,Object> delegatesByMethod;

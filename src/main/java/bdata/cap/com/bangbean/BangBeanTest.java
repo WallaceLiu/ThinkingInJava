@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.SwingConsole.*;
+import static mindview.util.SwingConsole.*;
 
 public class BangBeanTest extends JFrame {
   private JTextField txt = new JTextField(20);

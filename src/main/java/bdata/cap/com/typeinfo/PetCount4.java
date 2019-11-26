@@ -2,8 +2,8 @@
 package bdata.cap.com.typeinfo;
 
 import bdata.cap.com.typeinfo.pets.*;
-import bdata.cap.com.net.mindview.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import mindview.util.*;
+import static mindview.util.Print.*;
 
 public class PetCount4 {
   public static void main(String[] args) {

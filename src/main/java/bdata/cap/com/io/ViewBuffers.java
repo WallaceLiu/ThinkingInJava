@@ -2,7 +2,7 @@ package bdata.cap.com.io;
 
 //: io/ViewBuffers.java
 import java.nio.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ViewBuffers {
   public static void main(String[] args) {

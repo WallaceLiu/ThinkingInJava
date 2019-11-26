@@ -3,7 +3,6 @@
 package bdata.cap.com.generics;
 
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
 import mindview.util.Generator;
 
 class Product {

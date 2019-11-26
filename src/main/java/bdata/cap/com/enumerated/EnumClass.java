@@ -2,7 +2,7 @@
 // Capabilities of the Enum class
 package bdata.cap.com.enumerated;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 enum Shrubbery { GROUND, CRAWLING, HANGING }
 

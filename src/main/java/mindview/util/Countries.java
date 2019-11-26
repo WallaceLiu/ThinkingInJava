@@ -4,7 +4,7 @@ package mindview.util;
 
 import java.util.*;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 public class Countries {
   public static final String[][] DATA = {

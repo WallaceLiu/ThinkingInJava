@@ -2,7 +2,7 @@
 // Inheritance, constructors and arguments.
 package bdata.cap.com.reusing;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Game {
   Game(int i) {

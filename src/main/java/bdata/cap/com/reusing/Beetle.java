@@ -2,7 +2,7 @@
 // The full process of initialization.
 package bdata.cap.com.reusing;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 class Insect {
     private int i = 9;

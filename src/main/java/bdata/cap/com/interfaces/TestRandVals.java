@@ -1,7 +1,7 @@
 //: interfaces/TestRandVals.java
 package bdata.cap.com.interfaces;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class TestRandVals {
   public static void main(String[] args) {

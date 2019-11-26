@@ -2,7 +2,7 @@
 // Cleaning up shared member objects.
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Shared {
   private int refcount = 0;

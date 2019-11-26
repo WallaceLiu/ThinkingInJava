@@ -4,7 +4,7 @@ package bdata.cap.com.concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import static java.util.concurrent.TimeUnit.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class DelayedTask implements Runnable, Delayed {
   private static int counter = 0;

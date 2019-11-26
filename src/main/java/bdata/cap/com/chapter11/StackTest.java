@@ -1,7 +1,8 @@
 //: chapter11/StackTest.java
 package bdata.cap.com.chapter11;
 
-import bdata.cap.com.net.mindview.util.*;
+
+import mindview.util.Stack;
 
 public class StackTest {
   public static void main(String[] args) {

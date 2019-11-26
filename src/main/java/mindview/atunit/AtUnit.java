@@ -12,8 +12,8 @@ import java.lang.reflect.Modifier;
 import java.util.ArrayList;
 import java.util.List;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 public class AtUnit implements ProcessFiles.Strategy {
   static Class<?> testClass;

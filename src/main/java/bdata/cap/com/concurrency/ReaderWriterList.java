@@ -4,7 +4,7 @@ package bdata.cap.com.concurrency;
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ReaderWriterList<T> {
   private ArrayList<T> lockedList;

@@ -6,8 +6,8 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 class Car {
     private boolean waxOn = false;

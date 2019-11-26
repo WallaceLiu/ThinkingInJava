@@ -9,8 +9,8 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 class Car {
     private Lock lock = new ReentrantLock();

@@ -2,7 +2,7 @@
 // Using isInstance()
 package bdata.cap.com.typeinfo;
 
-import bdata.cap.com.net.mindview.util.MapData;
+import mindview.util.MapData;
 import bdata.cap.com.typeinfo.pets.LiteralPetCreator;
 import bdata.cap.com.typeinfo.pets.Pet;
 import bdata.cap.com.typeinfo.pets.Pets;
@@ -10,8 +10,8 @@ import bdata.cap.com.typeinfo.pets.Pets;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
 
 public class PetCount3 {
   static class PetCounter

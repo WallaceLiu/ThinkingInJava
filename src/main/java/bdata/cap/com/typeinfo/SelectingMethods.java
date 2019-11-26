@@ -3,7 +3,7 @@
 package bdata.cap.com.typeinfo;
 
 import java.lang.reflect.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class MethodSelector implements InvocationHandler {
   private Object proxied;

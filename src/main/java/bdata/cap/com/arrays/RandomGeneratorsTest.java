@@ -1,7 +1,7 @@
 //: arrays/RandomGeneratorsTest.java
 package bdata.cap.com.arrays;
 
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.*;
 
 public class RandomGeneratorsTest {
   public static void main(String[] args) {

@@ -3,7 +3,7 @@ package bdata.cap.com.chapter11;
 
 import bdata.cap.com.typeinfo.pets.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class PetMap {
   public static void main(String[] args) {

@@ -4,7 +4,7 @@ package bdata.cap.com.io;
 
 import java.nio.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class Endians {
   public static void main(String[] args) {

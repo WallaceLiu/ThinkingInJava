@@ -2,7 +2,8 @@
 // One thread can reacquire the same lock.
 package bdata.cap.com.concurrency;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+
+import static mindview.util.Print.print;
 
 public class MultiLock {
   public synchronized void f1(int count) {

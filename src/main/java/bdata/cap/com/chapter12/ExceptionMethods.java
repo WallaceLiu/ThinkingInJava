@@ -2,7 +2,7 @@
 // Demonstrating the Exception Methods.
 package bdata.cap.com.chapter12;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 public class ExceptionMethods {
   public static void main(String[] args) {

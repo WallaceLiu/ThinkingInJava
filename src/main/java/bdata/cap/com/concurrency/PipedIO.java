@@ -5,7 +5,7 @@ package bdata.cap.com.concurrency;
 import java.util.concurrent.*;
 import java.io.*;
 import java.util.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Sender implements Runnable {
 	private Random rand = new Random(47);

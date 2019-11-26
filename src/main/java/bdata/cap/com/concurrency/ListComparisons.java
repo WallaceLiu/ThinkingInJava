@@ -3,7 +3,7 @@
 // Rough comparison of thread-safe List performance.
 package bdata.cap.com.concurrency;
 
-import bdata.cap.com.net.mindview.util.CountingIntegerList;
+import mindview.util.CountingIntegerList;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -3,7 +3,7 @@
 // don't produce what you might expect.
 package bdata.cap.com.polymorphism;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class Glyph {
   void draw() { print("Glyph.draw()"); }

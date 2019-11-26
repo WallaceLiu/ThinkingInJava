@@ -2,8 +2,8 @@
 // Using the Generators defined in the Arrays chapter.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.CollectionData;
-import bdata.cap.com.net.mindview.util.RandomGenerator;
+import mindview.util.CollectionData;
+import mindview.util.RandomGenerator;
 
 import java.util.ArrayList;
 import java.util.HashSet;

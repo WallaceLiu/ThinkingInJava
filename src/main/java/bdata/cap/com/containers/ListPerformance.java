@@ -4,9 +4,9 @@ package bdata.cap.com.containers;
 // Demonstrates performance differences in Lists.
 // {Args: 100 500} Small to keep build testing shortpackage bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.CountingGenerator;
-import bdata.cap.com.net.mindview.util.CountingIntegerList;
-import bdata.cap.com.net.mindview.util.Generated;
+import mindview.util.CountingGenerator;
+import mindview.util.CountingIntegerList;
+import mindview.util.Generated;
 
 import java.util.*;
 

@@ -3,9 +3,11 @@
 // Rough comparison of thread-safe Map performance.
 package bdata.cap.com.concurrency;
 
+import mindview.util.CountingGenerator;
+import mindview.util.MapData;
+
 import java.util.concurrent.*;
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
 
 abstract class MapTest
 extends Tester<Map<Integer,Integer>> {

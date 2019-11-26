@@ -4,7 +4,7 @@ package bdata.cap.com.polymorphism.music3;
 
 import bdata.cap.com.polymorphism.music.Note;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 class Instrument {
     void play(Note n) {

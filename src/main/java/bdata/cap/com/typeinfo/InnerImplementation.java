@@ -3,7 +3,7 @@
 package bdata.cap.com.typeinfo;
 
 import bdata.cap.com.typeinfo.interfacea.*;
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.*;
 
 class InnerA {
   private static class C implements A {

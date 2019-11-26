@@ -3,10 +3,12 @@
 package bdata.cap.com.arrays;
 
 import java.util.*;
-import bdata.cap.com.net.mindview.util.*;
+import mindview.util.ConvertTo;
+import mindview.util.Generated;
 import mindview.util.Generator;
+import mindview.util.RandomGenerator;
 
-import static bdata.cap.com.net.mindview.util.Print.*;
+import static mindview.util.Print.print;
 
 public class ArraySearching {
   public static void main(String[] args) {

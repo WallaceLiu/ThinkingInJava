@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
 
 public class Apply {
     public static <T, S extends Iterable<? extends T>> void apply(S seq, Method f, Object... args) {

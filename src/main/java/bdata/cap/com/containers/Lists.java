@@ -2,12 +2,14 @@
 // Things you can do with Lists.
 package bdata.cap.com.containers;
 
-import bdata.cap.com.net.mindview.util.Countries;
+
+import mindview.util.Countries;
 
 import java.util.*;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
-import static bdata.cap.com.net.mindview.util.Print.printnb;
+import static mindview.util.Print.print;
+import static mindview.util.Print.printnb;
+
 
 public class Lists {
   private static boolean b;

@@ -8,7 +8,8 @@ import mindview.util.OSExecute;
 
 import java.util.*;
 
-import static bdata.cap.com.net.mindview.util.Print.print;
+import static mindview.util.Print.print;
+
 
 public class AtUnitExample4 {
     static String theory = "All brontosauruses " +
