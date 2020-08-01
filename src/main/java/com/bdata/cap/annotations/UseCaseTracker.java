@@ -8,6 +8,10 @@ import java.util.Collections;
 import java.util.List;
 
 public class UseCaseTracker {
+    /**
+     * @param useCases
+     * @param cl
+     */
     public static void trackUseCases(List<Integer> useCases, Class<?> cl) {
         for (Method m : cl.getDeclaredMethods()) {
             UseCase uc = m.getAnnotation(UseCase.class);
