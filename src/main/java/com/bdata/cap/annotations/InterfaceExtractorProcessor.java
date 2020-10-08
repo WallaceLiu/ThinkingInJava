@@ -1,4 +1,5 @@
 ////: annotations/InterfaceExtractorProcessor.java
+//// https://docs.oracle.com/javase/7/docs/technotes/guides/apt/GettingStarted.html
 //// APT-based annotation processing.
 //// {Exec: apt -factory
 //// annotations.InterfaceExtractorProcessorFactory
